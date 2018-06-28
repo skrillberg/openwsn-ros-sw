@@ -1,0 +1,10 @@
+from pydispatch import dispatcher
+import time
+def handle_event(sender):
+	print 'signal was sent by', sender
+
+dispatcher.connect(handle_event,signal=dispatcher.Any,sender=dispatcher.Any)
+
+while True:
+
+	time.sleep(1)

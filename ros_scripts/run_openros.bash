@@ -3,12 +3,14 @@ sudo pkill -9 python
 pid=$!
 wait $pid
 
-cd /home/vagrant/openwsn-mimsy/openwsn-fw
+cd /home/muminovic/Desktop/openwsn-ros/openwsn-fw
 sudo scons board=python toolchain=gcc oos_openwsn
-cd /home/vagrant/openwsn-mimsy/openwsn-sw/software/openvisualizer 
+cd /home/muminovic/Desktop/openwsn-ros/openwsn-sw/software/openvisualizer 
 
 (gnome-terminal -e "bash -c \"sudo scons runweb --sim --root='emulated1'; exec bash\"")
 term1=$!
+roscd &
+(gnome-terminal -e "bash -c \"roscore; exec bash\"")
 roscd beginner_tutorials
 (gnome-terminal -e "bash -c \"rosrun beginner_tutorials node_handler.py; exec bash\"")
 term2=$!

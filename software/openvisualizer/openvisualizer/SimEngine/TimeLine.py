@@ -130,9 +130,9 @@ class TimeLine(threading.Thread):
         
         :param atTime: The time at which this event should be called.
         :param cb:     The function to call when this event happens.
-        :param desc:   A unique description (a string) of this event.
+        :param desc:   A unique description (a string) of this event
         '''
-        
+        #print 'scheduling {0}@{1} at {2:.6f}, {3}'.format(desc,moteId,atTime, self)
         # log
         if self.log.isEnabledFor(logging.DEBUG):
             self.log.debug('scheduling {0}@{1} at {2:.6f}'.format(desc,moteId,atTime))

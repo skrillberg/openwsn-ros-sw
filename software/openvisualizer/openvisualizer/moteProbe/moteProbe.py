@@ -104,7 +104,6 @@ class moteProbe(threading.Thread):
     ]
     
     def __init__(self,serialport=None,emulatedMote=None,iotlabmote=None):
-        
         # verify params
         if   serialport:
             assert not emulatedMote
@@ -214,7 +213,7 @@ class moteProbe(threading.Thread):
 				for byte in rxBytes:
 				    decodedBytes +=binascii.b2a_hex(byte)
 				#request imu data from ros node
-				data = s.prt2('fromMoteProbe@'+self.portname,ord(rxBytes[0]),ord(rxBytes[1]),ord(rxBytes[2]))
+				data = s.prt2('fromMoteProbe@'+self.portname,ord(rxBytes[0]),ord(rxBytes[1]),ord(rxBytes[2]),self.emulatedMote.bspUart.timeline.getCurrentTime())
 				chrData =''
 				chrData =['~']
 				for d in data:

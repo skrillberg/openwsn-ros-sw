@@ -73,7 +73,7 @@ class BspUart(BspModule.BspModule):
         
         with self.uartTxBufferLock:
             self.uartTxBuffer     = [ord(b) for b in bytesToWrite]
-        
+        #print "write buffer: ",self.uartTxBuffer
         self.engine.pause()
         self._scheduleNextTx()
         self.engine.resume()
@@ -225,9 +225,10 @@ class BspUart(BspModule.BspModule):
         # log the activity
         if self.log.isEnabledFor(logging.DEBUG):
             self.log.debug('cmd_readByte')
-        
+        #print "in readbyte command: ",self.motehandler, self.uartTxBuffer
         # retrieve the byte last sent
         with self.uartTxBufferLock:
+	 
             return self.uartTxNext
     
     #======================== interrupts ======================================

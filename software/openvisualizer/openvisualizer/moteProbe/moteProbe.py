@@ -213,7 +213,17 @@ class moteProbe(threading.Thread):
 				for byte in rxBytes:
 				    decodedBytes +=binascii.b2a_hex(byte)
 				#request imu data from ros node
-				data = s.prt2('fromMoteProbe@'+self.portname,ord(rxBytes[0]),ord(rxBytes[1]),ord(rxBytes[2]),self.emulatedMote.bspUart.timeline.getCurrentTime())
+				#print self.emulatedMote.bspUart.engine.pause()
+				data,timestamp = s.prt2('fromMoteProbe@'+self.portname,ord(rxBytes[0]),ord(rxBytes[1]),ord(rxBytes[2]),self.emulatedMote.bspUart.timeline.getCurrentTime())
+
+               			 #pause engine if timestamp is greater than current time
+                		#while timestamp<self.emulatedMote.bspUart.timeline.getCurrentTime():
+				 #   print "pausing"
+                                  #  print self.emulatedMote.bspUart.engine.getNumMotes()
+				   # print self.emulatedMote.bspUart.engine.isPaused
+                    		   # self.emulatedMote.bspUart.engine.pause()
+                                    #print self.emulatedMote.bspUart.engine.isPaused
+
 				chrData =''
 				chrData =['~']
 				for d in data:

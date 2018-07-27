@@ -9,6 +9,8 @@ import logging
 import threading
 
 import SimEngine
+import xmlrpclib
+s = xmlrpclib.ServerProxy('http://localhost:8001')
 
 class TimeLineStats(object):
     
@@ -85,6 +87,8 @@ class TimeLine(threading.Thread):
         # apply the delay
         self.engine.pauseOrDelay()
         
+        #RPC Socket
+        #global s
         while True:
             
             # detect the end of the simulation
@@ -103,6 +107,9 @@ class TimeLine(threading.Thread):
             
             # record the current time
             self.currentTime = event.atTime
+            while(s.timeSync(self.currentTime)==True):
+		print "OpenWSN Paused"
+		
             
             # log
             if self.log.isEnabledFor(logging.DEBUG):

@@ -69434,3 +69434,36 @@ total nodes number: 1
 
 total nodes number: 1
 --addr 0002 timestamp 2018-07-31 17:33:50
+
+total nodes number: 1
+--addr 0002 timestamp 2018-08-01 12:56:23
+
+total nodes number: 2
+--addr 0002 timestamp 2018-08-01 12:56:23
+--addr 0003 timestamp 2018-08-01 13:00:32
+
+total nodes number: 2
+--addr 0002 timestamp 2018-08-01 13:00:34
+--addr 0003 timestamp 2018-08-01 13:00:32
+
+total nodes number: 2
+--addr 0002 timestamp 2018-08-01 13:00:34
+--addr 0003 timestamp 2018-08-01 14:23:52
+
+total nodes number: 2
+--addr 0002 timestamp 2018-08-01 14:23:57
+--addr 0003 timestamp 2018-08-01 14:23:52
+
+total nodes number: 1
+--addr 0002 timestamp 2018-08-01 15:00:24
+
+total nodes number: 2
+--addr 0002 timestamp 2018-08-01 15:00:24
+--addr 0003 timestamp 2018-08-01 15:01:49
+
+total nodes number: 2
+--addr 0002 timestamp 2018-08-01 15:01:50
+--addr 0003 timestamp 2018-08-01 15:01:49
+
+total nodes number: 1
+--addr 0002 timestamp 2018-08-01 15:59:11

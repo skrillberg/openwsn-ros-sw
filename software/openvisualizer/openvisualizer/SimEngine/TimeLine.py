@@ -109,6 +109,7 @@ class TimeLine(threading.Thread):
             self.currentTime = event.atTime
             while(s.timeSync(self.currentTime)==True):
 		print "OpenWSN Paused"
+	    print "OpenWSN Unpaused"
 		
             
             # log

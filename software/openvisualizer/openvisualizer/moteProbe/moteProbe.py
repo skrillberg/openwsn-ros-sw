@@ -215,7 +215,7 @@ class moteProbe(threading.Thread):
 				#request imu data from ros node
 				#print self.emulatedMote.bspUart.engine.pause()
 				data,timestamp = s.prt2('fromMoteProbe@'+self.portname,ord(rxBytes[0]),ord(rxBytes[1]),ord(rxBytes[2]),self.emulatedMote.bspUart.timeline.getCurrentTime())
-
+				print "made it past the rpc call in moteprobe.py"
                			 #pause engine if timestamp is greater than current time
                 		#while timestamp<self.emulatedMote.bspUart.timeline.getCurrentTime():
 				 #   print "pausing"

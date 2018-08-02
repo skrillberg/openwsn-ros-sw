@@ -21,7 +21,7 @@ import serial
 import socket
 import time
 import sys
-
+import struct
 from   pydispatch import dispatcher
 import OpenHdlc
 import openvisualizer.openvisualizer_utils as u
@@ -214,7 +214,7 @@ class moteProbe(threading.Thread):
 				    decodedBytes +=binascii.b2a_hex(byte)
 				#request imu data from ros node
 				#print self.emulatedMote.bspUart.engine.pause()
-				data,timestamp = s.prt2('fromMoteProbe@'+self.portname,ord(rxBytes[0]),ord(rxBytes[1]),ord(rxBytes[2]),self.emulatedMote.bspUart.timeline.getCurrentTime())
+				accel_data,timestamp = s.prt2('fromMoteProbe@'+self.portname,ord(rxBytes[0]),ord(rxBytes[1]),ord(rxBytes[2]),self.emulatedMote.bspUart.timeline.getCurrentTime())
 				print "made it past the rpc call in moteprobe.py"
                			 #pause engine if timestamp is greater than current time
                 		#while timestamp<self.emulatedMote.bspUart.timeline.getCurrentTime():
@@ -223,11 +223,24 @@ class moteProbe(threading.Thread):
 				   # print self.emulatedMote.bspUart.engine.isPaused
                     		   # self.emulatedMote.bspUart.engine.pause()
                                     #print self.emulatedMote.bspUart.engine.isPaused
+				packed_data = []
+				for d in accel_data:
+ 				    packed_data += struct.pack("=h",int(d*32767/16/9.8))
+				#print "packed data:"    
+				#print packed_data
+				unpacked_data =[]
+				for d in packed_data:
+				    unpacked_data += struct.unpack("=b",d) 
+
+				#print "uint8 unpacked data:"    
+				#print unpacked_data
 
 				chrData =''
 				chrData =['~']
-				for d in data:
-				    chrData+=chr(d)
+				#for d in unpacked_data[0:3]:
+				 #   chrData+=chr(d)
+				for d in packed_data[0:6]:
+				    chrData+=d
 				chrData +=['~']
 				#print chrData
 				#chrData = self.hdlc.hdlcify(chrData)  this created and error -11

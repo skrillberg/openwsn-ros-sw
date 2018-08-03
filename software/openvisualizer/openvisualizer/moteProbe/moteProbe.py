@@ -22,6 +22,7 @@ import socket
 import time
 import sys
 import struct
+import numpy
 from   pydispatch import dispatcher
 import OpenHdlc
 import openvisualizer.openvisualizer_utils as u
@@ -207,14 +208,23 @@ class moteProbe(threading.Thread):
 				#print rxBytes
 				#print ""
 				#print s.prt(rxBytes[0],rxBytes[1])
-			    if len(rxBytes)==3:
+			    if (len(rxBytes)==12 and (rxBytes[0] != '~')):
 				#send bytes to ros node
-				decodedBytes=[]
-				for byte in rxBytes:
-				    decodedBytes +=binascii.b2a_hex(byte)
+			
+	
+				#for byte in rxBytes:
+				 #   decodedBytes +=ord(byte)
+				#print decodedBytes
+				#print "".join(rxBytes[0:4]),"".join(rxBytes[4:8]),"".join(rxBytes[8:12])
+	
+				xcontrol = struct.unpack('=f',"".join(rxBytes[4:8]))
+				ycontrol = struct.unpack('=f',"".join(rxBytes[4:8]))
+				zcontrol = struct.unpack('=f',"".join(rxBytes[8:12]))
+				#print xcontrol[0],ycontrol[0],zcontrol[0]
 				#request imu data from ros node
 				#print self.emulatedMote.bspUart.engine.pause()
-				accel_data,timestamp = s.prt2('fromMoteProbe@'+self.portname,ord(rxBytes[0]),ord(rxBytes[1]),ord(rxBytes[2]),self.emulatedMote.bspUart.timeline.getCurrentTime())
+				accel_data,timestamp = s.prt2('fromMoteProbe@'+self.portname,xcontrol[0],ycontrol[0],zcontrol[0],self.emulatedMote.bspUart.timeline.getCurrentTime())
+				#accel_data,timestamp = s.prt2('fromMoteProbe@'+self.portname,ord(rxBytes[0]),ord(rxBytes[1]),ord(rxBytes[2]),self.emulatedMote.bspUart.timeline.getCurrentTime())
 				print "made it past the rpc call in moteprobe.py"
                			 #pause engine if timestamp is greater than current time
                 		#while timestamp<self.emulatedMote.bspUart.timeline.getCurrentTime():
@@ -225,7 +235,7 @@ class moteProbe(threading.Thread):
                                     #print self.emulatedMote.bspUart.engine.isPaused
 				packed_data = []
 				for d in accel_data:
- 				    packed_data += struct.pack("=h",int(d*32767/16/9.8))
+ 				    packed_data += struct.pack("=h",numpy.clip(int(d*32767/16/9.8),-32768,32767))
 				#print "packed data:"    
 				#print packed_data
 				unpacked_data =[]

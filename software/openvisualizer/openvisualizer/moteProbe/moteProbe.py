@@ -225,7 +225,7 @@ class moteProbe(threading.Thread):
 				#print self.emulatedMote.bspUart.engine.pause()
 				accel_data,timestamp = s.prt2('fromMoteProbe@'+self.portname,xcontrol[0],ycontrol[0],zcontrol[0],self.emulatedMote.bspUart.timeline.getCurrentTime())
 				#accel_data,timestamp = s.prt2('fromMoteProbe@'+self.portname,ord(rxBytes[0]),ord(rxBytes[1]),ord(rxBytes[2]),self.emulatedMote.bspUart.timeline.getCurrentTime())
-				print "made it past the rpc call in moteprobe.py"
+				print "made it past the rpc call in moteprobe.py: " + self.portname 
                			 #pause engine if timestamp is greater than current time
                 		#while timestamp<self.emulatedMote.bspUart.timeline.getCurrentTime():
 				 #   print "pausing"
@@ -235,7 +235,8 @@ class moteProbe(threading.Thread):
                                     #print self.emulatedMote.bspUart.engine.isPaused
 				packed_data = []
 				for d in accel_data:
- 				    packed_data += struct.pack("=h",numpy.clip(int(d*32767/16/9.8),-32768,32767))
+				    #convert float acceleration to hardware units
+ 				    packed_data += struct.pack("=h",numpy.clip(int(d*32767/16/9.8),-32768,32767)) 
 				#print "packed data:"    
 				#print packed_data
 				unpacked_data =[]

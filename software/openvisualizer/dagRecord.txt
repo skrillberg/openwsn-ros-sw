@@ -69547,3 +69547,20 @@ total nodes number: 1
 
 total nodes number: 1
 --addr 0002 timestamp 2018-08-07 12:41:06
+
+total nodes number: 1
+--addr 0003 timestamp 2018-08-07 15:05:22
+
+total nodes number: 1
+--addr 0003 timestamp 2018-08-07 15:09:45
+
+total nodes number: 1
+--addr 0002 timestamp 2018-08-07 15:38:57
+
+total nodes number: 2
+--addr 0002 timestamp 2018-08-07 15:38:57
+--addr 0003 timestamp 2018-08-07 15:43:15
+
+total nodes number: 2
+--addr 0002 timestamp 2018-08-07 15:43:17
+--addr 0003 timestamp 2018-08-07 15:43:15

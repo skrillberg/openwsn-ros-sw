@@ -1,0 +1,9 @@
+<launch>
+
+  <node name = "openserver1" pkg="beginner_tutorials" type="openwsn_server">
+  <node name = "" pkg="beginner_tutorials" type="openwsn_server">
+
+  <node name = "openwsn_client" pkg="beginner_tutorials" type="openwsn_client">
+
+</launch>
+

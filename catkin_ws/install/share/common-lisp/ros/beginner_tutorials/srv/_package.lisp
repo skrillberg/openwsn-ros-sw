@@ -1,0 +1,15 @@
+(cl:defpackage beginner_tutorials-srv
+  (:use )
+  (:export
+   "MIMSYIMU"
+   "<MIMSYIMU-REQUEST>"
+   "MIMSYIMU-REQUEST"
+   "<MIMSYIMU-RESPONSE>"
+   "MIMSYIMU-RESPONSE"
+   "ADDTWOINTS"
+   "<ADDTWOINTS-REQUEST>"
+   "ADDTWOINTS-REQUEST"
+   "<ADDTWOINTS-RESPONSE>"
+   "ADDTWOINTS-RESPONSE"
+  ))
+

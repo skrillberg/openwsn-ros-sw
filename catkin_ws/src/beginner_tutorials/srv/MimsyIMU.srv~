@@ -1,0 +1,8 @@
+int64 accelx
+int64 accely
+int64 accelz
+string a
+string b
+string c
+---
+string response

@@ -343,10 +343,11 @@ class OpenVisualizerWeb(eventBusClient.eventBusClient,Cmd):
         '''
         Retrieve the topology data, in JSON format.
         '''
-
+	print "in openwsn visualizer webapp"
         # motes
         motes = []
         rank  = 0
+	rank2 = 0
         while True:
             try:
                 mh            = self.engine.getMoteHandler(rank)
@@ -359,13 +360,39 @@ class OpenVisualizerWeb(eventBusClient.eventBusClient,Cmd):
                         'lon':   lon,
                     }
                 ]
+
+        	# update connections since mote locations are updated with gazebo values by mh.getlocation
+		'''
+		while True:
+		    try:
+		        mh2 = self.engine.getMoteHandler(rank2)
+		        id2 = mh2.getId()
+                        self.engine.propagation.createConnections(id,id2)
+		        rank2+=1
+			print "mote connection calculation: "
+		    except IndexError:
+                        break
+
+                        '''
                 rank+=1
             except IndexError:
                break
+	
+	
+	
+
+  
+	print "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+	print motes
+	print "creating connections in openvis web app"
+	for from_mote in motes:
+	    for to_mote in motes:
+		self.engine.propagation.createConnection(from_mote['id'],to_mote['id'])
+	print "created connections in openvis web app"
 
         # connections
         connections = self.engine.propagation.retrieveConnections()
-
+	print connections
         data = {
             'motes'          : motes,
             'connections'    : connections,
@@ -404,7 +431,7 @@ class OpenVisualizerWeb(eventBusClient.eventBusClient,Cmd):
 
         fromMote = int(data['fromMote'])
         toMote   = int(data['toMote'])
-
+	print "creating connections in openvis web app"
         self.engine.propagation.createConnection(fromMote,toMote)
 
     def _topologyConnectionsUpdate(self):

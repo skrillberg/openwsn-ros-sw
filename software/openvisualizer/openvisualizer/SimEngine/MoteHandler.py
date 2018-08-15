@@ -67,7 +67,7 @@ class MoteHandler(threading.Thread):
         # unique identifier of the mote
         self.id              = self.engine.idmanager.getId()
         # position of the mote
-        self.location        = self.engine.locationmanager.getLocation()
+        self.location        = self.engine.locationmanager.getLocation(self.id)
         # stats
         self.numRxCommands   = 0
         self.numTxCommands   = 0
@@ -227,7 +227,11 @@ class MoteHandler(threading.Thread):
         return self.id
     
     def getLocation(self):
-        return self.location
+	print "getting location in mote handler"
+        return self.engine.locationmanager.getLocation(self.id)
+
+    def getLocationNoRPC(self):
+	return self.location
     
     def setLocation(self,lat,lon):
         self.location = (lat,lon)

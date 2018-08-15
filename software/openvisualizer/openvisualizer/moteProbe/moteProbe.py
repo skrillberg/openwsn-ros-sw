@@ -29,6 +29,8 @@ import openvisualizer.openvisualizer_utils as u
 from   openvisualizer.moteConnector import OpenParser
 from   openvisualizer.moteConnector.SerialTester import SerialTester
 
+
+
 #============================ functions =======================================
 
 BAUDRATE_LOCAL_BOARD  = 115200
@@ -104,7 +106,7 @@ class moteProbe(threading.Thread):
         MODE_IOTLAB,
     ]
     
-    def __init__(self,serialport=None,emulatedMote=None,iotlabmote=None):
+    def __init__(self,serialport=None,emulatedMote=None,iotlabmote=None,sim_engine=None):
         # verify params
         if   serialport:
             assert not emulatedMote
@@ -114,6 +116,7 @@ class moteProbe(threading.Thread):
             assert not serialport
             assert not iotlabmote
             self.mode             = self.MODE_EMULATED
+
         elif iotlabmote:
             assert not serialport
             assert not emulatedMote
@@ -223,8 +226,14 @@ class moteProbe(threading.Thread):
 				#print xcontrol[0],ycontrol[0],zcontrol[0]
 				#request imu data from ros node
 				#print self.emulatedMote.bspUart.engine.pause()
-				accel_data,timestamp = s.prt2('fromMoteProbe@'+self.portname,xcontrol[0],ycontrol[0],zcontrol[0],self.emulatedMote.bspUart.timeline.getCurrentTime())
+				accel_data,timestamp,position = s.prt2('fromMoteProbe@'+self.portname,xcontrol[0],ycontrol[0],zcontrol[0],self.emulatedMote.bspUart.timeline.getCurrentTime())
 				#accel_data,timestamp = s.prt2('fromMoteProbe@'+self.portname,ord(rxBytes[0]),ord(rxBytes[1]),ord(rxBytes[2]),self.emulatedMote.bspUart.timeline.getCurrentTime())
+				
+				#self.emulatedMote.getLocation() #update location
+				lat =   37.875095-0.0005+position[1]*0.0005
+                                lon = -122.257473-0.0005+position[0]*0.0005
+				#self.emulatedMote.setLocation(lat,lon)
+				print "location updated"
 				print "made it past the rpc call in moteprobe.py: " + self.portname 
                			 #pause engine if timestamp is greater than current time
                 		#while timestamp<self.emulatedMote.bspUart.timeline.getCurrentTime():

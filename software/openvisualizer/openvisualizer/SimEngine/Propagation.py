@@ -61,7 +61,7 @@ class Propagation(eventBusClient.eventBusClient):
     
     def createConnection(self,fromMote,toMote):
   
-        print "in create connection"
+        #print "in create connection"
         FREQUENCY_GHz        =    2.4
         TX_POWER_dBm         =    0.0
         PISTER_HACK_LOSS     =   40.0
@@ -79,7 +79,16 @@ class Propagation(eventBusClient.eventBusClient):
                 (latFrom,lonFrom) = mhFrom.getLocationNoRPC()
                 mhTo              = self.engine.getMoteHandlerById(toMote)
                 (latTo,lonTo)     = mhTo.getLocationNoRPC()
-    
+                
+
+    		#brians lat long conversion
+		#if(toMote == 6):
+		 #   print "lat, long", latTo, lonTo, latFrom, lonFrom 
+		blon             = lonTo - lonFrom 
+                blat             = latTo - latFrom 
+		d_x = blon*111.00	
+		d_y = blat*111.00
+		b_km = sqrt(d_x**2+d_y**2)
                 # compute distance
                 lonFrom, latFrom, lonTo, latTo = map(radians, [lonFrom, latFrom, lonTo, latTo])
                 dlon             = lonTo - lonFrom 
@@ -88,6 +97,14 @@ class Propagation(eventBusClient.eventBusClient):
                 c                = 2 * asin(sqrt(a)) 
                 d_km                = 6367 * c
                 
+
+
+
+		if b_km == 0:
+		    b_km +=0.0005
+		if b_km <0:
+		    b_km = abs(b_km)
+
 		if d_km == 0:
 		    d_km +=0.0005
 		if d_km <0:
@@ -95,6 +112,8 @@ class Propagation(eventBusClient.eventBusClient):
 
                 # compute reception power (first Friis, then apply Pister-hack)
                 Prx              = TX_POWER_dBm - (20*log10(d_km) + 20*log10(FREQUENCY_GHz) + 92.45)
+		if(toMote >0):
+		    print "mote: brian_distance,distance, path loss: ", fromMote,toMote,b_km, d_km, (20*log10(d_km) + 20*log10(FREQUENCY_GHz) + 92.45) 
                 Prx             -= PISTER_HACK_LOSS*random.random()
                
                 #turn into PDR

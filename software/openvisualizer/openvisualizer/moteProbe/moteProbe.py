@@ -220,21 +220,21 @@ class moteProbe(threading.Thread):
 				#print decodedBytes
 				#print "".join(rxBytes[0:4]),"".join(rxBytes[4:8]),"".join(rxBytes[8:12])
 	
-				xcontrol = struct.unpack('=f',"".join(rxBytes[4:8]))
+				xcontrol = struct.unpack('=f',"".join(rxBytes[0:4]))
 				ycontrol = struct.unpack('=f',"".join(rxBytes[4:8]))
 				zcontrol = struct.unpack('=f',"".join(rxBytes[8:12]))
-				#print xcontrol[0],ycontrol[0],zcontrol[0]
+				print xcontrol[0],ycontrol[0],zcontrol[0]
 				#request imu data from ros node
 				#print self.emulatedMote.bspUart.engine.pause()
-				accel_data,timestamp,position = s.prt2('fromMoteProbe@'+self.portname,xcontrol[0],ycontrol[0],zcontrol[0],self.emulatedMote.bspUart.timeline.getCurrentTime())
+				accel_data,timestamp,position,neighbors = s.prt2('fromMoteProbe@'+self.portname,xcontrol[0],ycontrol[0],zcontrol[0],self.emulatedMote.bspUart.timeline.getCurrentTime())
 				#accel_data,timestamp = s.prt2('fromMoteProbe@'+self.portname,ord(rxBytes[0]),ord(rxBytes[1]),ord(rxBytes[2]),self.emulatedMote.bspUart.timeline.getCurrentTime())
 				
 				#self.emulatedMote.getLocation() #update location
 				lat =   37.875095-0.0005+position[1]*0.0005
                                 lon = -122.257473-0.0005+position[0]*0.0005
 				#self.emulatedMote.setLocation(lat,lon)
-				print "location updated"
-				print "made it past the rpc call in moteprobe.py: " + self.portname 
+				#print "location updated"
+				#print "made it past the rpc call in moteprobe.py: " + self.portname 
                			 #pause engine if timestamp is greater than current time
                 		#while timestamp<self.emulatedMote.bspUart.timeline.getCurrentTime():
 				 #   print "pausing"
@@ -246,6 +246,19 @@ class moteProbe(threading.Thread):
 				for d in accel_data:
 				    #convert float acceleration to hardware units
  				    packed_data += struct.pack("=h",numpy.clip(int(d*32767/16/9.8),-32768,32767)) 
+				#pack floats
+				for d in position:
+				    packed_data += struct.pack('=f',d)
+				#print neighbors
+				#pack positions of neighbors
+
+				'''
+				for neighbor, pos in neighbors.iteritems():
+				    #print neighbor," ", pos 
+				    for coord in pos:
+				        packed_data+=struct.pack('=f',coord)
+				'''
+
 				#print "packed data:"    
 				#print packed_data
 				unpacked_data =[]
@@ -257,11 +270,11 @@ class moteProbe(threading.Thread):
 
 				chrData =''
 				chrData =['~']
-				#for d in unpacked_data[0:3]:
-				 #   chrData+=chr(d)
-				for d in packed_data[0:6]:
+				
+				for d in packed_data:
 				    chrData+=d
 				chrData +=['~']
+				#print len(chrData)
 				#print chrData
 				#chrData = self.hdlc.hdlcify(chrData)  this created and error -11
 				#write response data to mote

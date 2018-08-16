@@ -382,17 +382,17 @@ class OpenVisualizerWeb(eventBusClient.eventBusClient,Cmd):
 	
 
   
-	print "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-	print motes
+	#print "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+	#print motes
 	print "creating connections in openvis web app"
 	for from_mote in motes:
 	    for to_mote in motes:
 		self.engine.propagation.createConnection(from_mote['id'],to_mote['id'])
-	print "created connections in openvis web app"
+	#print "created connections in openvis web app"
 
         # connections
         connections = self.engine.propagation.retrieveConnections()
-	print connections
+	#print connections
         data = {
             'motes'          : motes,
             'connections'    : connections,
@@ -431,7 +431,7 @@ class OpenVisualizerWeb(eventBusClient.eventBusClient,Cmd):
 
         fromMote = int(data['fromMote'])
         toMote   = int(data['toMote'])
-	print "creating connections in openvis web app"
+	#print "creating connections in openvis web app"
         self.engine.propagation.createConnection(fromMote,toMote)
 
     def _topologyConnectionsUpdate(self):

@@ -41,13 +41,13 @@ class LocationManager(object):
         if self.log.isEnabledFor(logging.DEBUG):
             self.log.debug('assigning location ({0} {1})'.format(lat,lon))
         '''
-	print "getting location from ros"
+	#print "getting location from ros"
 	position = s.getUAVLocation(mote_id)
 
 
-        lat =   37.875095-0.0005+position[1]*0.0001
-        lon = -122.257473-0.0005+position[0]*0.0001
-	print "mote_id: " + str(mote_id) +", location: " + str(position[0]) +', ' + str(position[1])
+        lat =   37.875095-0.0005+position[1]/111000
+        lon = -122.257473-0.0005+position[0]/111000
+	#print "mote_id: " + str(mote_id) +", location: " + str(position[0]) +', ' + str(position[1])
         return lat, lon
     	
     def getLocationNoRPC(self,mote_id):

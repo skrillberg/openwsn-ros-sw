@@ -98771,3 +98771,4541 @@ total nodes number: 5
 --addr 000A timestamp 2018-08-16 16:00:39
 --addr 0009 timestamp 2018-08-16 16:00:36
 --addr 0003 timestamp 2018-08-16 16:00:31
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:00:36
+--addr 0002 timestamp 2018-08-16 16:00:39
+--addr 000A timestamp 2018-08-16 16:00:39
+--addr 0009 timestamp 2018-08-16 16:00:36
+--addr 0003 timestamp 2018-08-16 16:00:31
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:00:36
+--addr 0002 timestamp 2018-08-16 16:00:39
+--addr 000A timestamp 2018-08-16 16:00:39
+--addr 0009 timestamp 2018-08-16 16:00:41
+--addr 0003 timestamp 2018-08-16 16:00:31
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:00:36
+--addr 0002 timestamp 2018-08-16 16:00:39
+--addr 000A timestamp 2018-08-16 16:00:39
+--addr 0009 timestamp 2018-08-16 16:00:41
+--addr 0003 timestamp 2018-08-16 16:00:41
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:00:42
+--addr 0002 timestamp 2018-08-16 16:00:39
+--addr 000A timestamp 2018-08-16 16:00:39
+--addr 0009 timestamp 2018-08-16 16:00:41
+--addr 0003 timestamp 2018-08-16 16:00:41
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:00:48
+--addr 0002 timestamp 2018-08-16 16:00:39
+--addr 000A timestamp 2018-08-16 16:00:39
+--addr 0009 timestamp 2018-08-16 16:00:41
+--addr 0003 timestamp 2018-08-16 16:00:41
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:00:48
+--addr 0002 timestamp 2018-08-16 16:00:39
+--addr 000A timestamp 2018-08-16 16:00:48
+--addr 0009 timestamp 2018-08-16 16:00:41
+--addr 0003 timestamp 2018-08-16 16:00:41
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:00:48
+--addr 0002 timestamp 2018-08-16 16:00:48
+--addr 000A timestamp 2018-08-16 16:00:48
+--addr 0009 timestamp 2018-08-16 16:00:41
+--addr 0003 timestamp 2018-08-16 16:00:41
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:00:48
+--addr 0002 timestamp 2018-08-16 16:00:48
+--addr 000A timestamp 2018-08-16 16:00:48
+--addr 0009 timestamp 2018-08-16 16:00:49
+--addr 0003 timestamp 2018-08-16 16:00:41
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:00:48
+--addr 0002 timestamp 2018-08-16 16:00:48
+--addr 000A timestamp 2018-08-16 16:00:48
+--addr 0009 timestamp 2018-08-16 16:00:49
+--addr 0003 timestamp 2018-08-16 16:00:50
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:00:52
+--addr 0002 timestamp 2018-08-16 16:00:48
+--addr 000A timestamp 2018-08-16 16:00:48
+--addr 0009 timestamp 2018-08-16 16:00:49
+--addr 0003 timestamp 2018-08-16 16:00:50
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:00:52
+--addr 0002 timestamp 2018-08-16 16:00:52
+--addr 000A timestamp 2018-08-16 16:00:48
+--addr 0009 timestamp 2018-08-16 16:00:49
+--addr 0003 timestamp 2018-08-16 16:00:50
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:00:52
+--addr 0002 timestamp 2018-08-16 16:00:52
+--addr 000A timestamp 2018-08-16 16:00:48
+--addr 0009 timestamp 2018-08-16 16:00:49
+--addr 0003 timestamp 2018-08-16 16:00:54
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:00:52
+--addr 0002 timestamp 2018-08-16 16:00:52
+--addr 000A timestamp 2018-08-16 16:00:56
+--addr 0009 timestamp 2018-08-16 16:00:49
+--addr 0003 timestamp 2018-08-16 16:00:54
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:00:52
+--addr 0002 timestamp 2018-08-16 16:00:52
+--addr 000A timestamp 2018-08-16 16:00:56
+--addr 0009 timestamp 2018-08-16 16:00:57
+--addr 0003 timestamp 2018-08-16 16:00:54
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:00:52
+--addr 0002 timestamp 2018-08-16 16:00:59
+--addr 000A timestamp 2018-08-16 16:00:56
+--addr 0009 timestamp 2018-08-16 16:00:57
+--addr 0003 timestamp 2018-08-16 16:00:54
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:01:01
+--addr 0002 timestamp 2018-08-16 16:00:59
+--addr 000A timestamp 2018-08-16 16:00:56
+--addr 0009 timestamp 2018-08-16 16:00:57
+--addr 0003 timestamp 2018-08-16 16:00:54
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:01:01
+--addr 0002 timestamp 2018-08-16 16:00:59
+--addr 000A timestamp 2018-08-16 16:00:56
+--addr 0009 timestamp 2018-08-16 16:00:57
+--addr 0003 timestamp 2018-08-16 16:01:02
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:01:01
+--addr 0002 timestamp 2018-08-16 16:00:59
+--addr 000A timestamp 2018-08-16 16:00:56
+--addr 0009 timestamp 2018-08-16 16:01:02
+--addr 0003 timestamp 2018-08-16 16:01:02
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:01:01
+--addr 0002 timestamp 2018-08-16 16:00:59
+--addr 000A timestamp 2018-08-16 16:01:04
+--addr 0009 timestamp 2018-08-16 16:01:02
+--addr 0003 timestamp 2018-08-16 16:01:02
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:01:01
+--addr 0002 timestamp 2018-08-16 16:01:06
+--addr 000A timestamp 2018-08-16 16:01:04
+--addr 0009 timestamp 2018-08-16 16:01:02
+--addr 0003 timestamp 2018-08-16 16:01:02
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:01:01
+--addr 0002 timestamp 2018-08-16 16:01:06
+--addr 000A timestamp 2018-08-16 16:01:04
+--addr 0009 timestamp 2018-08-16 16:01:02
+--addr 0003 timestamp 2018-08-16 16:01:06
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:01:01
+--addr 0002 timestamp 2018-08-16 16:01:06
+--addr 000A timestamp 2018-08-16 16:01:08
+--addr 0009 timestamp 2018-08-16 16:01:02
+--addr 0003 timestamp 2018-08-16 16:01:06
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:01:01
+--addr 0002 timestamp 2018-08-16 16:01:06
+--addr 000A timestamp 2018-08-16 16:01:08
+--addr 0009 timestamp 2018-08-16 16:01:10
+--addr 0003 timestamp 2018-08-16 16:01:06
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:01:10
+--addr 0002 timestamp 2018-08-16 16:01:06
+--addr 000A timestamp 2018-08-16 16:01:08
+--addr 0009 timestamp 2018-08-16 16:01:10
+--addr 0003 timestamp 2018-08-16 16:01:06
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:01:10
+--addr 0002 timestamp 2018-08-16 16:01:06
+--addr 000A timestamp 2018-08-16 16:01:08
+--addr 0009 timestamp 2018-08-16 16:01:10
+--addr 0003 timestamp 2018-08-16 16:01:11
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:01:10
+--addr 0002 timestamp 2018-08-16 16:01:13
+--addr 000A timestamp 2018-08-16 16:01:08
+--addr 0009 timestamp 2018-08-16 16:01:10
+--addr 0003 timestamp 2018-08-16 16:01:11
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:01:10
+--addr 0002 timestamp 2018-08-16 16:01:13
+--addr 000A timestamp 2018-08-16 16:01:14
+--addr 0009 timestamp 2018-08-16 16:01:10
+--addr 0003 timestamp 2018-08-16 16:01:11
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:01:14
+--addr 0002 timestamp 2018-08-16 16:01:13
+--addr 000A timestamp 2018-08-16 16:01:14
+--addr 0009 timestamp 2018-08-16 16:01:10
+--addr 0003 timestamp 2018-08-16 16:01:11
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:01:18
+--addr 0002 timestamp 2018-08-16 16:01:13
+--addr 000A timestamp 2018-08-16 16:01:14
+--addr 0009 timestamp 2018-08-16 16:01:10
+--addr 0003 timestamp 2018-08-16 16:01:11
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:01:18
+--addr 0002 timestamp 2018-08-16 16:01:13
+--addr 000A timestamp 2018-08-16 16:01:14
+--addr 0009 timestamp 2018-08-16 16:01:19
+--addr 0003 timestamp 2018-08-16 16:01:11
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:01:18
+--addr 0002 timestamp 2018-08-16 16:01:13
+--addr 000A timestamp 2018-08-16 16:01:14
+--addr 0009 timestamp 2018-08-16 16:01:19
+--addr 0003 timestamp 2018-08-16 16:01:21
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 16:01:18
+--addr 0002 timestamp 2018-08-16 16:01:24
+--addr 000A timestamp 2018-08-16 16:01:14
+--addr 0009 timestamp 2018-08-16 16:01:19
+--addr 0003 timestamp 2018-08-16 16:01:21
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 16:05:33
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 16:05:46
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 16:05:52
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 16:10:09
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 16:10:21
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 16:10:28
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 16:10:45
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 16:10:46
+--addr 0006 timestamp 2018-08-16 16:10:45
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 16:10:46
+--addr 0006 timestamp 2018-08-16 16:10:56
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 16:10:59
+--addr 0006 timestamp 2018-08-16 16:10:56
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 16:10:59
+--addr 0006 timestamp 2018-08-16 16:11:02
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 16:11:07
+--addr 0006 timestamp 2018-08-16 16:11:02
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 16:11:07
+--addr 0002 timestamp 2018-08-16 16:11:15
+--addr 0006 timestamp 2018-08-16 16:11:02
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 16:11:07
+--addr 0002 timestamp 2018-08-16 16:11:15
+--addr 0006 timestamp 2018-08-16 16:11:16
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 16:11:19
+--addr 0002 timestamp 2018-08-16 16:11:15
+--addr 0006 timestamp 2018-08-16 16:11:16
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 16:11:19
+--addr 0002 timestamp 2018-08-16 16:11:29
+--addr 0006 timestamp 2018-08-16 16:11:16
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 16:11:19
+--addr 0002 timestamp 2018-08-16 16:11:29
+--addr 0006 timestamp 2018-08-16 16:11:32
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 16:11:35
+--addr 0002 timestamp 2018-08-16 16:11:29
+--addr 0006 timestamp 2018-08-16 16:11:32
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 16:11:35
+--addr 0002 timestamp 2018-08-16 16:11:35
+--addr 0006 timestamp 2018-08-16 16:11:32
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 16:11:35
+--addr 0002 timestamp 2018-08-16 16:11:35
+--addr 0006 timestamp 2018-08-16 16:11:32
+--addr 0003 timestamp 2018-08-16 16:11:40
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 16:11:35
+--addr 0002 timestamp 2018-08-16 16:11:35
+--addr 0006 timestamp 2018-08-16 16:11:44
+--addr 0003 timestamp 2018-08-16 16:11:40
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 16:11:45
+--addr 0002 timestamp 2018-08-16 16:11:35
+--addr 0006 timestamp 2018-08-16 16:11:44
+--addr 0003 timestamp 2018-08-16 16:11:40
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 16:11:45
+--addr 0002 timestamp 2018-08-16 16:11:48
+--addr 0006 timestamp 2018-08-16 16:11:44
+--addr 0003 timestamp 2018-08-16 16:11:40
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 16:11:45
+--addr 0002 timestamp 2018-08-16 16:11:48
+--addr 0006 timestamp 2018-08-16 16:11:50
+--addr 0003 timestamp 2018-08-16 16:11:40
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 16:11:45
+--addr 0002 timestamp 2018-08-16 16:11:48
+--addr 0006 timestamp 2018-08-16 16:11:50
+--addr 0003 timestamp 2018-08-16 16:11:51
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 16:11:53
+--addr 0002 timestamp 2018-08-16 16:11:48
+--addr 0006 timestamp 2018-08-16 16:11:50
+--addr 0003 timestamp 2018-08-16 16:11:51
+
+total nodes number: 5
+--addr 0009 timestamp 2018-08-16 16:11:55
+--addr 000A timestamp 2018-08-16 16:11:53
+--addr 0002 timestamp 2018-08-16 16:11:48
+--addr 0006 timestamp 2018-08-16 16:11:50
+--addr 0003 timestamp 2018-08-16 16:11:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:11:59
+--addr 0006 timestamp 2018-08-16 16:11:50
+--addr 000A timestamp 2018-08-16 16:11:53
+--addr 0009 timestamp 2018-08-16 16:11:55
+--addr 0003 timestamp 2018-08-16 16:11:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:11:59
+--addr 0006 timestamp 2018-08-16 16:11:50
+--addr 000A timestamp 2018-08-16 16:11:53
+--addr 0009 timestamp 2018-08-16 16:12:02
+--addr 0003 timestamp 2018-08-16 16:11:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:11:59
+--addr 0006 timestamp 2018-08-16 16:11:50
+--addr 000A timestamp 2018-08-16 16:12:04
+--addr 0009 timestamp 2018-08-16 16:12:02
+--addr 0003 timestamp 2018-08-16 16:11:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:11:59
+--addr 0006 timestamp 2018-08-16 16:12:06
+--addr 000A timestamp 2018-08-16 16:12:04
+--addr 0009 timestamp 2018-08-16 16:12:02
+--addr 0003 timestamp 2018-08-16 16:11:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:12:07
+--addr 0006 timestamp 2018-08-16 16:12:06
+--addr 000A timestamp 2018-08-16 16:12:04
+--addr 0009 timestamp 2018-08-16 16:12:02
+--addr 0003 timestamp 2018-08-16 16:11:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:12:07
+--addr 0006 timestamp 2018-08-16 16:12:06
+--addr 000A timestamp 2018-08-16 16:12:04
+--addr 0009 timestamp 2018-08-16 16:12:02
+--addr 0003 timestamp 2018-08-16 16:12:08
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:12:07
+--addr 0006 timestamp 2018-08-16 16:12:06
+--addr 000A timestamp 2018-08-16 16:12:04
+--addr 0009 timestamp 2018-08-16 16:12:17
+--addr 0003 timestamp 2018-08-16 16:12:08
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:12:07
+--addr 0006 timestamp 2018-08-16 16:12:21
+--addr 000A timestamp 2018-08-16 16:12:04
+--addr 0009 timestamp 2018-08-16 16:12:17
+--addr 0003 timestamp 2018-08-16 16:12:08
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:12:07
+--addr 0006 timestamp 2018-08-16 16:12:21
+--addr 000A timestamp 2018-08-16 16:12:22
+--addr 0009 timestamp 2018-08-16 16:12:17
+--addr 0003 timestamp 2018-08-16 16:12:08
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:12:23
+--addr 0006 timestamp 2018-08-16 16:12:21
+--addr 000A timestamp 2018-08-16 16:12:22
+--addr 0009 timestamp 2018-08-16 16:12:17
+--addr 0003 timestamp 2018-08-16 16:12:08
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:12:23
+--addr 0006 timestamp 2018-08-16 16:12:21
+--addr 000A timestamp 2018-08-16 16:12:22
+--addr 0009 timestamp 2018-08-16 16:12:26
+--addr 0003 timestamp 2018-08-16 16:12:08
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:12:23
+--addr 0006 timestamp 2018-08-16 16:12:21
+--addr 000A timestamp 2018-08-16 16:12:22
+--addr 0009 timestamp 2018-08-16 16:12:26
+--addr 0003 timestamp 2018-08-16 16:12:27
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:12:23
+--addr 0006 timestamp 2018-08-16 16:12:29
+--addr 000A timestamp 2018-08-16 16:12:22
+--addr 0009 timestamp 2018-08-16 16:12:26
+--addr 0003 timestamp 2018-08-16 16:12:27
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:12:23
+--addr 0006 timestamp 2018-08-16 16:12:29
+--addr 000A timestamp 2018-08-16 16:12:40
+--addr 0009 timestamp 2018-08-16 16:12:26
+--addr 0003 timestamp 2018-08-16 16:12:27
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:12:40
+--addr 0006 timestamp 2018-08-16 16:12:29
+--addr 000A timestamp 2018-08-16 16:12:40
+--addr 0009 timestamp 2018-08-16 16:12:26
+--addr 0003 timestamp 2018-08-16 16:12:27
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:12:40
+--addr 0006 timestamp 2018-08-16 16:12:29
+--addr 000A timestamp 2018-08-16 16:12:40
+--addr 0009 timestamp 2018-08-16 16:12:42
+--addr 0003 timestamp 2018-08-16 16:12:27
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:12:40
+--addr 0006 timestamp 2018-08-16 16:12:29
+--addr 000A timestamp 2018-08-16 16:12:40
+--addr 0009 timestamp 2018-08-16 16:12:42
+--addr 0003 timestamp 2018-08-16 16:12:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:12:40
+--addr 0006 timestamp 2018-08-16 16:12:47
+--addr 000A timestamp 2018-08-16 16:12:40
+--addr 0009 timestamp 2018-08-16 16:12:42
+--addr 0003 timestamp 2018-08-16 16:12:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:12:48
+--addr 0006 timestamp 2018-08-16 16:12:47
+--addr 000A timestamp 2018-08-16 16:12:40
+--addr 0009 timestamp 2018-08-16 16:12:42
+--addr 0003 timestamp 2018-08-16 16:12:43
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 16:16:09
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 16:16:17
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 16:16:31
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 16:16:32
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 16:16:35
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 16:16:43
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 16:16:46
+--addr 0006 timestamp 2018-08-16 16:16:43
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 16:16:59
+--addr 0006 timestamp 2018-08-16 16:16:43
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 16:16:59
+--addr 0006 timestamp 2018-08-16 16:17:00
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 16:17:07
+--addr 0006 timestamp 2018-08-16 16:17:00
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 16:17:07
+--addr 0006 timestamp 2018-08-16 16:17:09
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 16:17:07
+--addr 0002 timestamp 2018-08-16 16:17:15
+--addr 0006 timestamp 2018-08-16 16:17:09
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 16:17:07
+--addr 0002 timestamp 2018-08-16 16:17:15
+--addr 0006 timestamp 2018-08-16 16:17:17
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 16:17:18
+--addr 0002 timestamp 2018-08-16 16:17:15
+--addr 0006 timestamp 2018-08-16 16:17:17
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 16:17:18
+--addr 0002 timestamp 2018-08-16 16:17:15
+--addr 0006 timestamp 2018-08-16 16:17:26
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 16:17:18
+--addr 0002 timestamp 2018-08-16 16:17:29
+--addr 0006 timestamp 2018-08-16 16:17:26
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 16:17:35
+--addr 0002 timestamp 2018-08-16 16:17:29
+--addr 0006 timestamp 2018-08-16 16:17:26
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 16:17:35
+--addr 0002 timestamp 2018-08-16 16:17:35
+--addr 0006 timestamp 2018-08-16 16:17:26
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 16:17:35
+--addr 0002 timestamp 2018-08-16 16:17:35
+--addr 0006 timestamp 2018-08-16 16:17:38
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 16:17:35
+--addr 0002 timestamp 2018-08-16 16:17:35
+--addr 0006 timestamp 2018-08-16 16:17:38
+--addr 0003 timestamp 2018-08-16 16:17:40
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 16:17:35
+--addr 0002 timestamp 2018-08-16 16:17:35
+--addr 0006 timestamp 2018-08-16 16:17:42
+--addr 0003 timestamp 2018-08-16 16:17:40
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 16:17:44
+--addr 0002 timestamp 2018-08-16 16:17:35
+--addr 0006 timestamp 2018-08-16 16:17:42
+--addr 0003 timestamp 2018-08-16 16:17:40
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 16:17:44
+--addr 0002 timestamp 2018-08-16 16:17:48
+--addr 0006 timestamp 2018-08-16 16:17:42
+--addr 0003 timestamp 2018-08-16 16:17:40
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 16:17:44
+--addr 0002 timestamp 2018-08-16 16:17:48
+--addr 0006 timestamp 2018-08-16 16:17:49
+--addr 0003 timestamp 2018-08-16 16:17:40
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 16:17:44
+--addr 0002 timestamp 2018-08-16 16:17:48
+--addr 0006 timestamp 2018-08-16 16:17:49
+--addr 0003 timestamp 2018-08-16 16:17:51
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 16:17:53
+--addr 0002 timestamp 2018-08-16 16:17:48
+--addr 0006 timestamp 2018-08-16 16:17:49
+--addr 0003 timestamp 2018-08-16 16:17:51
+
+total nodes number: 5
+--addr 0009 timestamp 2018-08-16 16:17:55
+--addr 000A timestamp 2018-08-16 16:17:53
+--addr 0002 timestamp 2018-08-16 16:17:48
+--addr 0006 timestamp 2018-08-16 16:17:49
+--addr 0003 timestamp 2018-08-16 16:17:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:17:48
+--addr 0006 timestamp 2018-08-16 16:17:57
+--addr 000A timestamp 2018-08-16 16:17:53
+--addr 0009 timestamp 2018-08-16 16:17:55
+--addr 0003 timestamp 2018-08-16 16:17:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:00
+--addr 0006 timestamp 2018-08-16 16:17:57
+--addr 000A timestamp 2018-08-16 16:17:53
+--addr 0009 timestamp 2018-08-16 16:17:55
+--addr 0003 timestamp 2018-08-16 16:17:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:00
+--addr 0006 timestamp 2018-08-16 16:18:00
+--addr 000A timestamp 2018-08-16 16:17:53
+--addr 0009 timestamp 2018-08-16 16:17:55
+--addr 0003 timestamp 2018-08-16 16:17:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:00
+--addr 0006 timestamp 2018-08-16 16:18:00
+--addr 000A timestamp 2018-08-16 16:17:53
+--addr 0009 timestamp 2018-08-16 16:18:02
+--addr 0003 timestamp 2018-08-16 16:17:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:00
+--addr 0006 timestamp 2018-08-16 16:18:00
+--addr 000A timestamp 2018-08-16 16:18:04
+--addr 0009 timestamp 2018-08-16 16:18:02
+--addr 0003 timestamp 2018-08-16 16:17:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:07
+--addr 0006 timestamp 2018-08-16 16:18:00
+--addr 000A timestamp 2018-08-16 16:18:04
+--addr 0009 timestamp 2018-08-16 16:18:02
+--addr 0003 timestamp 2018-08-16 16:17:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:07
+--addr 0006 timestamp 2018-08-16 16:18:00
+--addr 000A timestamp 2018-08-16 16:18:04
+--addr 0009 timestamp 2018-08-16 16:18:02
+--addr 0003 timestamp 2018-08-16 16:18:08
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:07
+--addr 0006 timestamp 2018-08-16 16:18:11
+--addr 000A timestamp 2018-08-16 16:18:04
+--addr 0009 timestamp 2018-08-16 16:18:02
+--addr 0003 timestamp 2018-08-16 16:18:08
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:07
+--addr 0006 timestamp 2018-08-16 16:18:12
+--addr 000A timestamp 2018-08-16 16:18:04
+--addr 0009 timestamp 2018-08-16 16:18:02
+--addr 0003 timestamp 2018-08-16 16:18:08
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:07
+--addr 0006 timestamp 2018-08-16 16:18:12
+--addr 000A timestamp 2018-08-16 16:18:04
+--addr 0009 timestamp 2018-08-16 16:18:17
+--addr 0003 timestamp 2018-08-16 16:18:08
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:07
+--addr 0006 timestamp 2018-08-16 16:18:12
+--addr 000A timestamp 2018-08-16 16:18:22
+--addr 0009 timestamp 2018-08-16 16:18:17
+--addr 0003 timestamp 2018-08-16 16:18:08
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:23
+--addr 0006 timestamp 2018-08-16 16:18:12
+--addr 000A timestamp 2018-08-16 16:18:22
+--addr 0009 timestamp 2018-08-16 16:18:17
+--addr 0003 timestamp 2018-08-16 16:18:08
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:23
+--addr 0006 timestamp 2018-08-16 16:18:24
+--addr 000A timestamp 2018-08-16 16:18:22
+--addr 0009 timestamp 2018-08-16 16:18:17
+--addr 0003 timestamp 2018-08-16 16:18:08
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:23
+--addr 0006 timestamp 2018-08-16 16:18:24
+--addr 000A timestamp 2018-08-16 16:18:22
+--addr 0009 timestamp 2018-08-16 16:18:26
+--addr 0003 timestamp 2018-08-16 16:18:08
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:23
+--addr 0006 timestamp 2018-08-16 16:18:24
+--addr 000A timestamp 2018-08-16 16:18:22
+--addr 0009 timestamp 2018-08-16 16:18:26
+--addr 0003 timestamp 2018-08-16 16:18:27
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:23
+--addr 0006 timestamp 2018-08-16 16:18:32
+--addr 000A timestamp 2018-08-16 16:18:22
+--addr 0009 timestamp 2018-08-16 16:18:26
+--addr 0003 timestamp 2018-08-16 16:18:27
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:23
+--addr 0006 timestamp 2018-08-16 16:18:32
+--addr 000A timestamp 2018-08-16 16:18:40
+--addr 0009 timestamp 2018-08-16 16:18:26
+--addr 0003 timestamp 2018-08-16 16:18:27
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:40
+--addr 0006 timestamp 2018-08-16 16:18:32
+--addr 000A timestamp 2018-08-16 16:18:40
+--addr 0009 timestamp 2018-08-16 16:18:26
+--addr 0003 timestamp 2018-08-16 16:18:27
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:40
+--addr 0006 timestamp 2018-08-16 16:18:32
+--addr 000A timestamp 2018-08-16 16:18:40
+--addr 0009 timestamp 2018-08-16 16:18:42
+--addr 0003 timestamp 2018-08-16 16:18:27
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:40
+--addr 0006 timestamp 2018-08-16 16:18:32
+--addr 000A timestamp 2018-08-16 16:18:40
+--addr 0009 timestamp 2018-08-16 16:18:42
+--addr 0003 timestamp 2018-08-16 16:18:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:48
+--addr 0006 timestamp 2018-08-16 16:18:32
+--addr 000A timestamp 2018-08-16 16:18:40
+--addr 0009 timestamp 2018-08-16 16:18:42
+--addr 0003 timestamp 2018-08-16 16:18:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:48
+--addr 0006 timestamp 2018-08-16 16:18:32
+--addr 000A timestamp 2018-08-16 16:18:40
+--addr 0009 timestamp 2018-08-16 16:18:42
+--addr 0003 timestamp 2018-08-16 16:18:50
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:48
+--addr 0006 timestamp 2018-08-16 16:18:32
+--addr 000A timestamp 2018-08-16 16:18:55
+--addr 0009 timestamp 2018-08-16 16:18:42
+--addr 0003 timestamp 2018-08-16 16:18:50
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:48
+--addr 0006 timestamp 2018-08-16 16:18:55
+--addr 000A timestamp 2018-08-16 16:18:55
+--addr 0009 timestamp 2018-08-16 16:18:42
+--addr 0003 timestamp 2018-08-16 16:18:50
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:48
+--addr 0006 timestamp 2018-08-16 16:18:55
+--addr 000A timestamp 2018-08-16 16:18:55
+--addr 0009 timestamp 2018-08-16 16:18:57
+--addr 0003 timestamp 2018-08-16 16:18:50
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:59
+--addr 0006 timestamp 2018-08-16 16:18:55
+--addr 000A timestamp 2018-08-16 16:18:55
+--addr 0009 timestamp 2018-08-16 16:18:57
+--addr 0003 timestamp 2018-08-16 16:18:50
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:59
+--addr 0006 timestamp 2018-08-16 16:18:55
+--addr 000A timestamp 2018-08-16 16:18:55
+--addr 0009 timestamp 2018-08-16 16:18:57
+--addr 0003 timestamp 2018-08-16 16:19:05
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:59
+--addr 0006 timestamp 2018-08-16 16:18:55
+--addr 000A timestamp 2018-08-16 16:18:55
+--addr 0009 timestamp 2018-08-16 16:19:06
+--addr 0003 timestamp 2018-08-16 16:19:05
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:59
+--addr 0006 timestamp 2018-08-16 16:19:09
+--addr 000A timestamp 2018-08-16 16:18:55
+--addr 0009 timestamp 2018-08-16 16:19:06
+--addr 0003 timestamp 2018-08-16 16:19:05
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:18:59
+--addr 0006 timestamp 2018-08-16 16:19:09
+--addr 000A timestamp 2018-08-16 16:19:10
+--addr 0009 timestamp 2018-08-16 16:19:06
+--addr 0003 timestamp 2018-08-16 16:19:05
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:19:14
+--addr 0006 timestamp 2018-08-16 16:19:09
+--addr 000A timestamp 2018-08-16 16:19:10
+--addr 0009 timestamp 2018-08-16 16:19:06
+--addr 0003 timestamp 2018-08-16 16:19:05
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:19:14
+--addr 0006 timestamp 2018-08-16 16:19:09
+--addr 000A timestamp 2018-08-16 16:19:10
+--addr 0009 timestamp 2018-08-16 16:19:06
+--addr 0003 timestamp 2018-08-16 16:19:14
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:19:14
+--addr 0006 timestamp 2018-08-16 16:19:09
+--addr 000A timestamp 2018-08-16 16:19:17
+--addr 0009 timestamp 2018-08-16 16:19:06
+--addr 0003 timestamp 2018-08-16 16:19:14
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:19:14
+--addr 0006 timestamp 2018-08-16 16:19:09
+--addr 000A timestamp 2018-08-16 16:19:17
+--addr 0009 timestamp 2018-08-16 16:19:20
+--addr 0003 timestamp 2018-08-16 16:19:14
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:19:14
+--addr 0006 timestamp 2018-08-16 16:19:21
+--addr 000A timestamp 2018-08-16 16:19:17
+--addr 0009 timestamp 2018-08-16 16:19:20
+--addr 0003 timestamp 2018-08-16 16:19:14
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:19:14
+--addr 0006 timestamp 2018-08-16 16:19:21
+--addr 000A timestamp 2018-08-16 16:19:17
+--addr 0009 timestamp 2018-08-16 16:19:20
+--addr 0003 timestamp 2018-08-16 16:19:23
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:19:27
+--addr 0006 timestamp 2018-08-16 16:19:21
+--addr 000A timestamp 2018-08-16 16:19:17
+--addr 0009 timestamp 2018-08-16 16:19:20
+--addr 0003 timestamp 2018-08-16 16:19:23
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:19:27
+--addr 0006 timestamp 2018-08-16 16:19:27
+--addr 000A timestamp 2018-08-16 16:19:17
+--addr 0009 timestamp 2018-08-16 16:19:20
+--addr 0003 timestamp 2018-08-16 16:19:23
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:19:27
+--addr 0006 timestamp 2018-08-16 16:19:27
+--addr 000A timestamp 2018-08-16 16:19:28
+--addr 0009 timestamp 2018-08-16 16:19:20
+--addr 0003 timestamp 2018-08-16 16:19:23
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:19:27
+--addr 0006 timestamp 2018-08-16 16:19:27
+--addr 000A timestamp 2018-08-16 16:19:28
+--addr 0009 timestamp 2018-08-16 16:19:36
+--addr 0003 timestamp 2018-08-16 16:19:23
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:19:27
+--addr 0006 timestamp 2018-08-16 16:19:36
+--addr 000A timestamp 2018-08-16 16:19:28
+--addr 0009 timestamp 2018-08-16 16:19:36
+--addr 0003 timestamp 2018-08-16 16:19:23
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:19:27
+--addr 0006 timestamp 2018-08-16 16:19:36
+--addr 000A timestamp 2018-08-16 16:19:28
+--addr 0009 timestamp 2018-08-16 16:19:36
+--addr 0003 timestamp 2018-08-16 16:19:41
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 16:19:46
+--addr 0006 timestamp 2018-08-16 16:19:36
+--addr 000A timestamp 2018-08-16 16:19:28
+--addr 0009 timestamp 2018-08-16 16:19:36
+--addr 0003 timestamp 2018-08-16 16:19:41
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 17:06:31
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:07:08
+--addr 0006 timestamp 2018-08-16 17:06:31
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:07:08
+--addr 0006 timestamp 2018-08-16 17:07:15
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:07:08
+--addr 0006 timestamp 2018-08-16 17:07:19
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:07:21
+--addr 0006 timestamp 2018-08-16 17:07:19
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 17:10:51
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 17:11:03
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 17:11:10
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 17:11:27
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:11:28
+--addr 0006 timestamp 2018-08-16 17:11:27
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:11:28
+--addr 0006 timestamp 2018-08-16 17:11:38
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:11:42
+--addr 0006 timestamp 2018-08-16 17:11:38
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:11:42
+--addr 0006 timestamp 2018-08-16 17:11:45
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:11:50
+--addr 0006 timestamp 2018-08-16 17:11:45
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:11:50
+--addr 0002 timestamp 2018-08-16 17:11:58
+--addr 0006 timestamp 2018-08-16 17:11:45
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:11:50
+--addr 0002 timestamp 2018-08-16 17:11:58
+--addr 0006 timestamp 2018-08-16 17:11:59
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:12:02
+--addr 0002 timestamp 2018-08-16 17:11:58
+--addr 0006 timestamp 2018-08-16 17:11:59
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:12:02
+--addr 0002 timestamp 2018-08-16 17:12:12
+--addr 0006 timestamp 2018-08-16 17:11:59
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:12:02
+--addr 0002 timestamp 2018-08-16 17:12:12
+--addr 0006 timestamp 2018-08-16 17:12:15
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:12:18
+--addr 0002 timestamp 2018-08-16 17:12:12
+--addr 0006 timestamp 2018-08-16 17:12:15
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:12:18
+--addr 0002 timestamp 2018-08-16 17:12:18
+--addr 0006 timestamp 2018-08-16 17:12:15
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:12:18
+--addr 0002 timestamp 2018-08-16 17:12:18
+--addr 0006 timestamp 2018-08-16 17:12:15
+--addr 0003 timestamp 2018-08-16 17:12:23
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:12:18
+--addr 0002 timestamp 2018-08-16 17:12:18
+--addr 0006 timestamp 2018-08-16 17:12:27
+--addr 0003 timestamp 2018-08-16 17:12:23
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:12:28
+--addr 0002 timestamp 2018-08-16 17:12:18
+--addr 0006 timestamp 2018-08-16 17:12:27
+--addr 0003 timestamp 2018-08-16 17:12:23
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:12:28
+--addr 0002 timestamp 2018-08-16 17:12:31
+--addr 0006 timestamp 2018-08-16 17:12:27
+--addr 0003 timestamp 2018-08-16 17:12:23
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:12:28
+--addr 0002 timestamp 2018-08-16 17:12:31
+--addr 0006 timestamp 2018-08-16 17:12:33
+--addr 0003 timestamp 2018-08-16 17:12:23
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:12:28
+--addr 0002 timestamp 2018-08-16 17:12:31
+--addr 0006 timestamp 2018-08-16 17:12:33
+--addr 0003 timestamp 2018-08-16 17:12:34
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:12:36
+--addr 0002 timestamp 2018-08-16 17:12:31
+--addr 0006 timestamp 2018-08-16 17:12:33
+--addr 0003 timestamp 2018-08-16 17:12:34
+
+total nodes number: 5
+--addr 0009 timestamp 2018-08-16 17:12:38
+--addr 000A timestamp 2018-08-16 17:12:36
+--addr 0002 timestamp 2018-08-16 17:12:31
+--addr 0006 timestamp 2018-08-16 17:12:33
+--addr 0003 timestamp 2018-08-16 17:12:34
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:12:43
+--addr 0006 timestamp 2018-08-16 17:12:33
+--addr 000A timestamp 2018-08-16 17:12:36
+--addr 0009 timestamp 2018-08-16 17:12:38
+--addr 0003 timestamp 2018-08-16 17:12:34
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:12:43
+--addr 0006 timestamp 2018-08-16 17:12:33
+--addr 000A timestamp 2018-08-16 17:12:36
+--addr 0009 timestamp 2018-08-16 17:12:46
+--addr 0003 timestamp 2018-08-16 17:12:34
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:12:43
+--addr 0006 timestamp 2018-08-16 17:12:33
+--addr 000A timestamp 2018-08-16 17:12:48
+--addr 0009 timestamp 2018-08-16 17:12:46
+--addr 0003 timestamp 2018-08-16 17:12:34
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:12:43
+--addr 0006 timestamp 2018-08-16 17:12:50
+--addr 000A timestamp 2018-08-16 17:12:48
+--addr 0009 timestamp 2018-08-16 17:12:46
+--addr 0003 timestamp 2018-08-16 17:12:34
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:12:51
+--addr 0006 timestamp 2018-08-16 17:12:50
+--addr 000A timestamp 2018-08-16 17:12:48
+--addr 0009 timestamp 2018-08-16 17:12:46
+--addr 0003 timestamp 2018-08-16 17:12:34
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:12:51
+--addr 0006 timestamp 2018-08-16 17:12:50
+--addr 000A timestamp 2018-08-16 17:12:48
+--addr 0009 timestamp 2018-08-16 17:12:46
+--addr 0003 timestamp 2018-08-16 17:12:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:12:51
+--addr 0006 timestamp 2018-08-16 17:12:50
+--addr 000A timestamp 2018-08-16 17:12:48
+--addr 0009 timestamp 2018-08-16 17:13:01
+--addr 0003 timestamp 2018-08-16 17:12:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:12:51
+--addr 0006 timestamp 2018-08-16 17:13:05
+--addr 000A timestamp 2018-08-16 17:12:48
+--addr 0009 timestamp 2018-08-16 17:13:01
+--addr 0003 timestamp 2018-08-16 17:12:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:12:51
+--addr 0006 timestamp 2018-08-16 17:13:05
+--addr 000A timestamp 2018-08-16 17:13:05
+--addr 0009 timestamp 2018-08-16 17:13:01
+--addr 0003 timestamp 2018-08-16 17:12:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:13:06
+--addr 0006 timestamp 2018-08-16 17:13:05
+--addr 000A timestamp 2018-08-16 17:13:05
+--addr 0009 timestamp 2018-08-16 17:13:01
+--addr 0003 timestamp 2018-08-16 17:12:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:13:06
+--addr 0006 timestamp 2018-08-16 17:13:05
+--addr 000A timestamp 2018-08-16 17:13:05
+--addr 0009 timestamp 2018-08-16 17:13:09
+--addr 0003 timestamp 2018-08-16 17:12:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:13:06
+--addr 0006 timestamp 2018-08-16 17:13:05
+--addr 000A timestamp 2018-08-16 17:13:05
+--addr 0009 timestamp 2018-08-16 17:13:09
+--addr 0003 timestamp 2018-08-16 17:13:10
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:13:06
+--addr 0006 timestamp 2018-08-16 17:13:13
+--addr 000A timestamp 2018-08-16 17:13:05
+--addr 0009 timestamp 2018-08-16 17:13:09
+--addr 0003 timestamp 2018-08-16 17:13:10
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 17:18:08
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 17:18:21
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 17:18:27
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 17:18:45
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:18:50
+--addr 0006 timestamp 2018-08-16 17:18:45
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:18:50
+--addr 0006 timestamp 2018-08-16 17:18:56
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:19:01
+--addr 0006 timestamp 2018-08-16 17:18:56
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:19:01
+--addr 0006 timestamp 2018-08-16 17:19:03
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:19:10
+--addr 0006 timestamp 2018-08-16 17:19:03
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:19:10
+--addr 0002 timestamp 2018-08-16 17:19:15
+--addr 0006 timestamp 2018-08-16 17:19:03
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:19:10
+--addr 0002 timestamp 2018-08-16 17:19:15
+--addr 0006 timestamp 2018-08-16 17:19:16
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:19:25
+--addr 0002 timestamp 2018-08-16 17:19:15
+--addr 0006 timestamp 2018-08-16 17:19:16
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:19:25
+--addr 0002 timestamp 2018-08-16 17:19:30
+--addr 0006 timestamp 2018-08-16 17:19:16
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:19:25
+--addr 0002 timestamp 2018-08-16 17:19:30
+--addr 0006 timestamp 2018-08-16 17:19:32
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:19:25
+--addr 0002 timestamp 2018-08-16 17:19:36
+--addr 0006 timestamp 2018-08-16 17:19:32
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:19:38
+--addr 0002 timestamp 2018-08-16 17:19:36
+--addr 0006 timestamp 2018-08-16 17:19:32
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:19:38
+--addr 0002 timestamp 2018-08-16 17:19:36
+--addr 0006 timestamp 2018-08-16 17:19:32
+--addr 0003 timestamp 2018-08-16 17:19:41
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:19:38
+--addr 0002 timestamp 2018-08-16 17:19:36
+--addr 0006 timestamp 2018-08-16 17:19:45
+--addr 0003 timestamp 2018-08-16 17:19:41
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:19:38
+--addr 0002 timestamp 2018-08-16 17:19:48
+--addr 0006 timestamp 2018-08-16 17:19:45
+--addr 0003 timestamp 2018-08-16 17:19:41
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:19:38
+--addr 0002 timestamp 2018-08-16 17:19:48
+--addr 0006 timestamp 2018-08-16 17:19:51
+--addr 0003 timestamp 2018-08-16 17:19:41
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:19:38
+--addr 0002 timestamp 2018-08-16 17:19:48
+--addr 0006 timestamp 2018-08-16 17:19:51
+--addr 0003 timestamp 2018-08-16 17:19:51
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:19:52
+--addr 0002 timestamp 2018-08-16 17:19:48
+--addr 0006 timestamp 2018-08-16 17:19:51
+--addr 0003 timestamp 2018-08-16 17:19:51
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:19:52
+--addr 0002 timestamp 2018-08-16 17:20:01
+--addr 0006 timestamp 2018-08-16 17:19:51
+--addr 0003 timestamp 2018-08-16 17:19:51
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:20:05
+--addr 0002 timestamp 2018-08-16 17:20:01
+--addr 0006 timestamp 2018-08-16 17:19:51
+--addr 0003 timestamp 2018-08-16 17:19:51
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:20:05
+--addr 0002 timestamp 2018-08-16 17:20:01
+--addr 0006 timestamp 2018-08-16 17:20:07
+--addr 0003 timestamp 2018-08-16 17:19:51
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:20:08
+--addr 0002 timestamp 2018-08-16 17:20:01
+--addr 0006 timestamp 2018-08-16 17:20:07
+--addr 0003 timestamp 2018-08-16 17:19:51
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:20:08
+--addr 0002 timestamp 2018-08-16 17:20:08
+--addr 0006 timestamp 2018-08-16 17:20:07
+--addr 0003 timestamp 2018-08-16 17:19:51
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:20:08
+--addr 0002 timestamp 2018-08-16 17:20:08
+--addr 0006 timestamp 2018-08-16 17:20:07
+--addr 0003 timestamp 2018-08-16 17:20:09
+
+total nodes number: 5
+--addr 0005 timestamp 2018-08-16 17:20:11
+--addr 000A timestamp 2018-08-16 17:20:08
+--addr 0002 timestamp 2018-08-16 17:20:08
+--addr 0006 timestamp 2018-08-16 17:20:07
+--addr 0003 timestamp 2018-08-16 17:20:09
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:08
+--addr 0006 timestamp 2018-08-16 17:20:07
+--addr 0005 timestamp 2018-08-16 17:20:11
+--addr 000A timestamp 2018-08-16 17:20:19
+--addr 0003 timestamp 2018-08-16 17:20:09
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:08
+--addr 0006 timestamp 2018-08-16 17:20:07
+--addr 0005 timestamp 2018-08-16 17:20:20
+--addr 000A timestamp 2018-08-16 17:20:19
+--addr 0003 timestamp 2018-08-16 17:20:09
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:08
+--addr 0006 timestamp 2018-08-16 17:20:22
+--addr 0005 timestamp 2018-08-16 17:20:20
+--addr 000A timestamp 2018-08-16 17:20:19
+--addr 0003 timestamp 2018-08-16 17:20:09
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:24
+--addr 0006 timestamp 2018-08-16 17:20:22
+--addr 0005 timestamp 2018-08-16 17:20:20
+--addr 000A timestamp 2018-08-16 17:20:19
+--addr 0003 timestamp 2018-08-16 17:20:09
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:24
+--addr 0006 timestamp 2018-08-16 17:20:22
+--addr 0005 timestamp 2018-08-16 17:20:20
+--addr 000A timestamp 2018-08-16 17:20:19
+--addr 0003 timestamp 2018-08-16 17:20:28
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:24
+--addr 0006 timestamp 2018-08-16 17:20:31
+--addr 0005 timestamp 2018-08-16 17:20:20
+--addr 000A timestamp 2018-08-16 17:20:19
+--addr 0003 timestamp 2018-08-16 17:20:28
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:24
+--addr 0006 timestamp 2018-08-16 17:20:31
+--addr 0005 timestamp 2018-08-16 17:20:20
+--addr 000A timestamp 2018-08-16 17:20:34
+--addr 0003 timestamp 2018-08-16 17:20:28
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:24
+--addr 0006 timestamp 2018-08-16 17:20:31
+--addr 0005 timestamp 2018-08-16 17:20:20
+--addr 000A timestamp 2018-08-16 17:20:36
+--addr 0003 timestamp 2018-08-16 17:20:28
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:24
+--addr 0006 timestamp 2018-08-16 17:20:31
+--addr 0005 timestamp 2018-08-16 17:20:40
+--addr 000A timestamp 2018-08-16 17:20:36
+--addr 0003 timestamp 2018-08-16 17:20:28
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:24
+--addr 0006 timestamp 2018-08-16 17:20:31
+--addr 0005 timestamp 2018-08-16 17:20:40
+--addr 000A timestamp 2018-08-16 17:20:42
+--addr 0003 timestamp 2018-08-16 17:20:28
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:42
+--addr 0006 timestamp 2018-08-16 17:20:31
+--addr 0005 timestamp 2018-08-16 17:20:40
+--addr 000A timestamp 2018-08-16 17:20:42
+--addr 0003 timestamp 2018-08-16 17:20:28
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:42
+--addr 0006 timestamp 2018-08-16 17:20:31
+--addr 0005 timestamp 2018-08-16 17:20:40
+--addr 000A timestamp 2018-08-16 17:20:42
+--addr 0003 timestamp 2018-08-16 17:20:45
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:42
+--addr 0006 timestamp 2018-08-16 17:20:31
+--addr 0005 timestamp 2018-08-16 17:20:48
+--addr 000A timestamp 2018-08-16 17:20:42
+--addr 0003 timestamp 2018-08-16 17:20:45
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:42
+--addr 0006 timestamp 2018-08-16 17:20:49
+--addr 0005 timestamp 2018-08-16 17:20:48
+--addr 000A timestamp 2018-08-16 17:20:42
+--addr 0003 timestamp 2018-08-16 17:20:45
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:50
+--addr 0006 timestamp 2018-08-16 17:20:49
+--addr 0005 timestamp 2018-08-16 17:20:48
+--addr 000A timestamp 2018-08-16 17:20:42
+--addr 0003 timestamp 2018-08-16 17:20:45
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:50
+--addr 0006 timestamp 2018-08-16 17:20:49
+--addr 0005 timestamp 2018-08-16 17:20:48
+--addr 000A timestamp 2018-08-16 17:20:42
+--addr 0003 timestamp 2018-08-16 17:20:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:50
+--addr 0006 timestamp 2018-08-16 17:20:49
+--addr 0005 timestamp 2018-08-16 17:20:48
+--addr 000A timestamp 2018-08-16 17:20:52
+--addr 0003 timestamp 2018-08-16 17:20:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:20:50
+--addr 0006 timestamp 2018-08-16 17:20:49
+--addr 0005 timestamp 2018-08-16 17:20:56
+--addr 000A timestamp 2018-08-16 17:20:52
+--addr 0003 timestamp 2018-08-16 17:20:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:01
+--addr 0006 timestamp 2018-08-16 17:20:49
+--addr 0005 timestamp 2018-08-16 17:20:56
+--addr 000A timestamp 2018-08-16 17:20:52
+--addr 0003 timestamp 2018-08-16 17:20:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:01
+--addr 0006 timestamp 2018-08-16 17:21:02
+--addr 0005 timestamp 2018-08-16 17:20:56
+--addr 000A timestamp 2018-08-16 17:20:52
+--addr 0003 timestamp 2018-08-16 17:20:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:01
+--addr 0006 timestamp 2018-08-16 17:21:02
+--addr 0005 timestamp 2018-08-16 17:21:05
+--addr 000A timestamp 2018-08-16 17:20:52
+--addr 0003 timestamp 2018-08-16 17:20:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:01
+--addr 0006 timestamp 2018-08-16 17:21:02
+--addr 0005 timestamp 2018-08-16 17:21:05
+--addr 000A timestamp 2018-08-16 17:20:52
+--addr 0003 timestamp 2018-08-16 17:21:07
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:01
+--addr 0006 timestamp 2018-08-16 17:21:02
+--addr 0005 timestamp 2018-08-16 17:21:05
+--addr 000A timestamp 2018-08-16 17:21:12
+--addr 0003 timestamp 2018-08-16 17:21:07
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:01
+--addr 0006 timestamp 2018-08-16 17:21:02
+--addr 0005 timestamp 2018-08-16 17:21:05
+--addr 000A timestamp 2018-08-16 17:21:13
+--addr 0003 timestamp 2018-08-16 17:21:07
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:16
+--addr 0006 timestamp 2018-08-16 17:21:02
+--addr 0005 timestamp 2018-08-16 17:21:05
+--addr 000A timestamp 2018-08-16 17:21:13
+--addr 0003 timestamp 2018-08-16 17:21:07
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:16
+--addr 0006 timestamp 2018-08-16 17:21:02
+--addr 0005 timestamp 2018-08-16 17:21:05
+--addr 000A timestamp 2018-08-16 17:21:13
+--addr 0003 timestamp 2018-08-16 17:21:16
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:16
+--addr 0006 timestamp 2018-08-16 17:21:21
+--addr 0005 timestamp 2018-08-16 17:21:05
+--addr 000A timestamp 2018-08-16 17:21:13
+--addr 0003 timestamp 2018-08-16 17:21:16
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:16
+--addr 0006 timestamp 2018-08-16 17:21:21
+--addr 0005 timestamp 2018-08-16 17:21:23
+--addr 000A timestamp 2018-08-16 17:21:13
+--addr 0003 timestamp 2018-08-16 17:21:16
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:16
+--addr 0006 timestamp 2018-08-16 17:21:21
+--addr 0005 timestamp 2018-08-16 17:21:23
+--addr 000A timestamp 2018-08-16 17:21:13
+--addr 0003 timestamp 2018-08-16 17:21:25
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:16
+--addr 0006 timestamp 2018-08-16 17:21:21
+--addr 0005 timestamp 2018-08-16 17:21:23
+--addr 000A timestamp 2018-08-16 17:21:28
+--addr 0003 timestamp 2018-08-16 17:21:25
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:29
+--addr 0006 timestamp 2018-08-16 17:21:21
+--addr 0005 timestamp 2018-08-16 17:21:23
+--addr 000A timestamp 2018-08-16 17:21:28
+--addr 0003 timestamp 2018-08-16 17:21:25
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:29
+--addr 0006 timestamp 2018-08-16 17:21:33
+--addr 0005 timestamp 2018-08-16 17:21:23
+--addr 000A timestamp 2018-08-16 17:21:28
+--addr 0003 timestamp 2018-08-16 17:21:25
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:29
+--addr 0006 timestamp 2018-08-16 17:21:33
+--addr 0005 timestamp 2018-08-16 17:21:34
+--addr 000A timestamp 2018-08-16 17:21:28
+--addr 0003 timestamp 2018-08-16 17:21:25
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:29
+--addr 0006 timestamp 2018-08-16 17:21:33
+--addr 0005 timestamp 2018-08-16 17:21:34
+--addr 000A timestamp 2018-08-16 17:21:28
+--addr 0003 timestamp 2018-08-16 17:21:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:29
+--addr 0006 timestamp 2018-08-16 17:21:33
+--addr 0005 timestamp 2018-08-16 17:21:34
+--addr 000A timestamp 2018-08-16 17:21:45
+--addr 0003 timestamp 2018-08-16 17:21:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:29
+--addr 0006 timestamp 2018-08-16 17:21:33
+--addr 0005 timestamp 2018-08-16 17:21:45
+--addr 000A timestamp 2018-08-16 17:21:45
+--addr 0003 timestamp 2018-08-16 17:21:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:48
+--addr 0006 timestamp 2018-08-16 17:21:33
+--addr 0005 timestamp 2018-08-16 17:21:45
+--addr 000A timestamp 2018-08-16 17:21:45
+--addr 0003 timestamp 2018-08-16 17:21:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:48
+--addr 0006 timestamp 2018-08-16 17:21:48
+--addr 0005 timestamp 2018-08-16 17:21:45
+--addr 000A timestamp 2018-08-16 17:21:45
+--addr 0003 timestamp 2018-08-16 17:21:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:48
+--addr 0006 timestamp 2018-08-16 17:21:48
+--addr 0005 timestamp 2018-08-16 17:21:52
+--addr 000A timestamp 2018-08-16 17:21:45
+--addr 0003 timestamp 2018-08-16 17:21:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:48
+--addr 0006 timestamp 2018-08-16 17:21:48
+--addr 0005 timestamp 2018-08-16 17:21:52
+--addr 000A timestamp 2018-08-16 17:21:57
+--addr 0003 timestamp 2018-08-16 17:21:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:48
+--addr 0006 timestamp 2018-08-16 17:21:57
+--addr 0005 timestamp 2018-08-16 17:21:52
+--addr 000A timestamp 2018-08-16 17:21:57
+--addr 0003 timestamp 2018-08-16 17:21:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:48
+--addr 0006 timestamp 2018-08-16 17:21:57
+--addr 0005 timestamp 2018-08-16 17:21:52
+--addr 000A timestamp 2018-08-16 17:21:59
+--addr 0003 timestamp 2018-08-16 17:21:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:21:48
+--addr 0006 timestamp 2018-08-16 17:21:57
+--addr 0005 timestamp 2018-08-16 17:21:52
+--addr 000A timestamp 2018-08-16 17:21:59
+--addr 0003 timestamp 2018-08-16 17:22:00
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:22:02
+--addr 0006 timestamp 2018-08-16 17:21:57
+--addr 0005 timestamp 2018-08-16 17:21:52
+--addr 000A timestamp 2018-08-16 17:21:59
+--addr 0003 timestamp 2018-08-16 17:22:00
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:22:02
+--addr 0006 timestamp 2018-08-16 17:21:57
+--addr 0005 timestamp 2018-08-16 17:21:52
+--addr 000A timestamp 2018-08-16 17:21:59
+--addr 0003 timestamp 2018-08-16 17:22:08
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:22:02
+--addr 0006 timestamp 2018-08-16 17:21:57
+--addr 0005 timestamp 2018-08-16 17:22:10
+--addr 000A timestamp 2018-08-16 17:21:59
+--addr 0003 timestamp 2018-08-16 17:22:08
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:22:02
+--addr 0006 timestamp 2018-08-16 17:21:57
+--addr 0005 timestamp 2018-08-16 17:22:10
+--addr 000A timestamp 2018-08-16 17:22:12
+--addr 0003 timestamp 2018-08-16 17:22:08
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:22:02
+--addr 0006 timestamp 2018-08-16 17:21:57
+--addr 0005 timestamp 2018-08-16 17:22:10
+--addr 000A timestamp 2018-08-16 17:22:12
+--addr 0003 timestamp 2018-08-16 17:22:14
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:22:02
+--addr 0006 timestamp 2018-08-16 17:22:16
+--addr 0005 timestamp 2018-08-16 17:22:10
+--addr 000A timestamp 2018-08-16 17:22:12
+--addr 0003 timestamp 2018-08-16 17:22:14
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:22:02
+--addr 0006 timestamp 2018-08-16 17:22:16
+--addr 0005 timestamp 2018-08-16 17:22:10
+--addr 000A timestamp 2018-08-16 17:22:17
+--addr 0003 timestamp 2018-08-16 17:22:14
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:22:20
+--addr 0006 timestamp 2018-08-16 17:22:16
+--addr 0005 timestamp 2018-08-16 17:22:10
+--addr 000A timestamp 2018-08-16 17:22:17
+--addr 0003 timestamp 2018-08-16 17:22:14
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:22:20
+--addr 0006 timestamp 2018-08-16 17:22:16
+--addr 0005 timestamp 2018-08-16 17:22:10
+--addr 000A timestamp 2018-08-16 17:22:17
+--addr 0003 timestamp 2018-08-16 17:22:22
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:22:20
+--addr 0006 timestamp 2018-08-16 17:22:16
+--addr 0005 timestamp 2018-08-16 17:22:22
+--addr 000A timestamp 2018-08-16 17:22:17
+--addr 0003 timestamp 2018-08-16 17:22:22
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:22:20
+--addr 0006 timestamp 2018-08-16 17:22:23
+--addr 0005 timestamp 2018-08-16 17:22:22
+--addr 000A timestamp 2018-08-16 17:22:17
+--addr 0003 timestamp 2018-08-16 17:22:22
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:22:20
+--addr 0006 timestamp 2018-08-16 17:22:23
+--addr 0005 timestamp 2018-08-16 17:22:22
+--addr 000A timestamp 2018-08-16 17:22:24
+--addr 0003 timestamp 2018-08-16 17:22:22
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 17:32:09
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 17:32:21
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 17:32:28
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 17:32:46
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:32:47
+--addr 0006 timestamp 2018-08-16 17:32:46
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:32:47
+--addr 0006 timestamp 2018-08-16 17:32:56
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:33:00
+--addr 0006 timestamp 2018-08-16 17:32:56
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 17:36:15
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 17:36:27
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 17:36:34
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 17:36:52
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:36:53
+--addr 0006 timestamp 2018-08-16 17:36:52
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:36:53
+--addr 0006 timestamp 2018-08-16 17:37:03
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:37:07
+--addr 0006 timestamp 2018-08-16 17:37:03
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:37:07
+--addr 0006 timestamp 2018-08-16 17:37:10
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:37:15
+--addr 0006 timestamp 2018-08-16 17:37:10
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:37:15
+--addr 0002 timestamp 2018-08-16 17:37:23
+--addr 0006 timestamp 2018-08-16 17:37:10
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:37:15
+--addr 0002 timestamp 2018-08-16 17:37:23
+--addr 0006 timestamp 2018-08-16 17:37:24
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:37:28
+--addr 0002 timestamp 2018-08-16 17:37:23
+--addr 0006 timestamp 2018-08-16 17:37:24
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:37:28
+--addr 0002 timestamp 2018-08-16 17:37:37
+--addr 0006 timestamp 2018-08-16 17:37:24
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:37:28
+--addr 0002 timestamp 2018-08-16 17:37:37
+--addr 0006 timestamp 2018-08-16 17:37:40
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:37:43
+--addr 0002 timestamp 2018-08-16 17:37:37
+--addr 0006 timestamp 2018-08-16 17:37:40
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 17:37:43
+--addr 0002 timestamp 2018-08-16 17:37:43
+--addr 0006 timestamp 2018-08-16 17:37:40
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:37:43
+--addr 0002 timestamp 2018-08-16 17:37:43
+--addr 0006 timestamp 2018-08-16 17:37:40
+--addr 0003 timestamp 2018-08-16 17:37:48
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:37:43
+--addr 0002 timestamp 2018-08-16 17:37:43
+--addr 0006 timestamp 2018-08-16 17:37:52
+--addr 0003 timestamp 2018-08-16 17:37:48
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:37:43
+--addr 0002 timestamp 2018-08-16 17:37:56
+--addr 0006 timestamp 2018-08-16 17:37:52
+--addr 0003 timestamp 2018-08-16 17:37:48
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:37:43
+--addr 0002 timestamp 2018-08-16 17:37:56
+--addr 0006 timestamp 2018-08-16 17:37:58
+--addr 0003 timestamp 2018-08-16 17:37:48
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:37:59
+--addr 0002 timestamp 2018-08-16 17:37:56
+--addr 0006 timestamp 2018-08-16 17:37:58
+--addr 0003 timestamp 2018-08-16 17:37:48
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 17:37:59
+--addr 0002 timestamp 2018-08-16 17:37:56
+--addr 0006 timestamp 2018-08-16 17:37:58
+--addr 0003 timestamp 2018-08-16 17:37:59
+
+total nodes number: 5
+--addr 0009 timestamp 2018-08-16 17:38:03
+--addr 000A timestamp 2018-08-16 17:37:59
+--addr 0002 timestamp 2018-08-16 17:37:56
+--addr 0006 timestamp 2018-08-16 17:37:58
+--addr 0003 timestamp 2018-08-16 17:37:59
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:08
+--addr 0006 timestamp 2018-08-16 17:37:58
+--addr 000A timestamp 2018-08-16 17:37:59
+--addr 0009 timestamp 2018-08-16 17:38:03
+--addr 0003 timestamp 2018-08-16 17:37:59
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:08
+--addr 0006 timestamp 2018-08-16 17:37:58
+--addr 000A timestamp 2018-08-16 17:38:15
+--addr 0009 timestamp 2018-08-16 17:38:03
+--addr 0003 timestamp 2018-08-16 17:37:59
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:08
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:38:15
+--addr 0009 timestamp 2018-08-16 17:38:03
+--addr 0003 timestamp 2018-08-16 17:37:59
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:16
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:38:15
+--addr 0009 timestamp 2018-08-16 17:38:03
+--addr 0003 timestamp 2018-08-16 17:37:59
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:16
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:38:15
+--addr 0009 timestamp 2018-08-16 17:38:03
+--addr 0003 timestamp 2018-08-16 17:38:17
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:16
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:38:15
+--addr 0009 timestamp 2018-08-16 17:38:17
+--addr 0003 timestamp 2018-08-16 17:38:17
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:16
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:38:22
+--addr 0009 timestamp 2018-08-16 17:38:17
+--addr 0003 timestamp 2018-08-16 17:38:17
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:16
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:38:22
+--addr 0009 timestamp 2018-08-16 17:38:25
+--addr 0003 timestamp 2018-08-16 17:38:17
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:16
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:38:22
+--addr 0009 timestamp 2018-08-16 17:38:26
+--addr 0003 timestamp 2018-08-16 17:38:17
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:32
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:38:22
+--addr 0009 timestamp 2018-08-16 17:38:26
+--addr 0003 timestamp 2018-08-16 17:38:17
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:32
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:38:22
+--addr 0009 timestamp 2018-08-16 17:38:26
+--addr 0003 timestamp 2018-08-16 17:38:36
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:32
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:38:22
+--addr 0009 timestamp 2018-08-16 17:38:36
+--addr 0003 timestamp 2018-08-16 17:38:36
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:32
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:38:37
+--addr 0009 timestamp 2018-08-16 17:38:36
+--addr 0003 timestamp 2018-08-16 17:38:36
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:32
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:38:45
+--addr 0009 timestamp 2018-08-16 17:38:36
+--addr 0003 timestamp 2018-08-16 17:38:36
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:32
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:38:45
+--addr 0009 timestamp 2018-08-16 17:38:46
+--addr 0003 timestamp 2018-08-16 17:38:36
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:50
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:38:45
+--addr 0009 timestamp 2018-08-16 17:38:46
+--addr 0003 timestamp 2018-08-16 17:38:36
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:50
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:38:45
+--addr 0009 timestamp 2018-08-16 17:38:46
+--addr 0003 timestamp 2018-08-16 17:38:53
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:58
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:38:45
+--addr 0009 timestamp 2018-08-16 17:38:46
+--addr 0003 timestamp 2018-08-16 17:38:53
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:58
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:38:45
+--addr 0009 timestamp 2018-08-16 17:38:46
+--addr 0003 timestamp 2018-08-16 17:39:00
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:58
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:39:01
+--addr 0009 timestamp 2018-08-16 17:38:46
+--addr 0003 timestamp 2018-08-16 17:39:00
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:38:58
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:39:01
+--addr 0009 timestamp 2018-08-16 17:39:01
+--addr 0003 timestamp 2018-08-16 17:39:00
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:39:10
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:39:01
+--addr 0009 timestamp 2018-08-16 17:39:01
+--addr 0003 timestamp 2018-08-16 17:39:00
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:39:10
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:39:01
+--addr 0009 timestamp 2018-08-16 17:39:14
+--addr 0003 timestamp 2018-08-16 17:39:00
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:39:10
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:39:16
+--addr 0009 timestamp 2018-08-16 17:39:14
+--addr 0003 timestamp 2018-08-16 17:39:00
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:39:10
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:39:16
+--addr 0009 timestamp 2018-08-16 17:39:14
+--addr 0003 timestamp 2018-08-16 17:39:16
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:39:24
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:39:16
+--addr 0009 timestamp 2018-08-16 17:39:14
+--addr 0003 timestamp 2018-08-16 17:39:16
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:39:24
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:39:16
+--addr 0009 timestamp 2018-08-16 17:39:14
+--addr 0003 timestamp 2018-08-16 17:39:24
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:39:24
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:39:16
+--addr 0009 timestamp 2018-08-16 17:39:28
+--addr 0003 timestamp 2018-08-16 17:39:24
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:39:24
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:39:32
+--addr 0009 timestamp 2018-08-16 17:39:28
+--addr 0003 timestamp 2018-08-16 17:39:24
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:39:24
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:39:32
+--addr 0009 timestamp 2018-08-16 17:39:28
+--addr 0003 timestamp 2018-08-16 17:39:33
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 17:39:37
+--addr 0006 timestamp 2018-08-16 17:38:15
+--addr 000A timestamp 2018-08-16 17:39:32
+--addr 0009 timestamp 2018-08-16 17:39:28
+--addr 0003 timestamp 2018-08-16 17:39:33
+
+total nodes number: 1
+--addr 000A timestamp 2018-08-16 17:52:35
+
+total nodes number: 1
+--addr 000A timestamp 2018-08-16 17:52:48
+
+total nodes number: 1
+--addr 000A timestamp 2018-08-16 17:58:03
+
+total nodes number: 1
+--addr 000A timestamp 2018-08-16 17:58:16
+
+total nodes number: 1
+--addr 000A timestamp 2018-08-16 17:58:24
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:58:24
+--addr 0002 timestamp 2018-08-16 17:58:32
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:58:35
+--addr 0002 timestamp 2018-08-16 17:58:32
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 17:58:35
+--addr 0002 timestamp 2018-08-16 17:58:46
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 18:01:58
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 18:02:11
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 18:06:31
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 18:06:43
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 18:06:50
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 18:07:09
+--addr 0006 timestamp 2018-08-16 18:06:50
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 18:16:44
+
+total nodes number: 1
+--addr 000A timestamp 2018-08-16 18:32:34
+
+total nodes number: 1
+--addr 000A timestamp 2018-08-16 18:32:47
+
+total nodes number: 1
+--addr 000A timestamp 2018-08-16 18:32:54
+
+total nodes number: 1
+--addr 000A timestamp 2018-08-16 18:33:03
+
+total nodes number: 1
+--addr 000A timestamp 2018-08-16 18:33:05
+
+total nodes number: 2
+--addr 0008 timestamp 2018-08-16 18:33:14
+--addr 000A timestamp 2018-08-16 18:33:05
+
+total nodes number: 3
+--addr 0008 timestamp 2018-08-16 18:33:14
+--addr 000A timestamp 2018-08-16 18:33:05
+--addr 0002 timestamp 2018-08-16 18:33:21
+
+total nodes number: 3
+--addr 0008 timestamp 2018-08-16 18:33:14
+--addr 000A timestamp 2018-08-16 18:33:22
+--addr 0002 timestamp 2018-08-16 18:33:21
+
+total nodes number: 3
+--addr 0008 timestamp 2018-08-16 18:33:14
+--addr 000A timestamp 2018-08-16 18:33:22
+--addr 0002 timestamp 2018-08-16 18:33:26
+
+total nodes number: 4
+--addr 0008 timestamp 2018-08-16 18:33:14
+--addr 000A timestamp 2018-08-16 18:33:22
+--addr 0002 timestamp 2018-08-16 18:33:26
+--addr 0003 timestamp 2018-08-16 18:33:26
+
+total nodes number: 4
+--addr 0008 timestamp 2018-08-16 18:33:14
+--addr 000A timestamp 2018-08-16 18:33:32
+--addr 0002 timestamp 2018-08-16 18:33:26
+--addr 0003 timestamp 2018-08-16 18:33:26
+
+total nodes number: 4
+--addr 0008 timestamp 2018-08-16 18:33:14
+--addr 000A timestamp 2018-08-16 18:33:32
+--addr 0002 timestamp 2018-08-16 18:33:26
+--addr 0003 timestamp 2018-08-16 18:33:37
+
+total nodes number: 4
+--addr 0008 timestamp 2018-08-16 18:33:14
+--addr 000A timestamp 2018-08-16 18:33:40
+--addr 0002 timestamp 2018-08-16 18:33:26
+--addr 0003 timestamp 2018-08-16 18:33:37
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 18:46:09
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 18:46:22
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 18:46:24
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 18:46:30
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 18:46:34
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 18:46:38
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 18:46:40
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 18:46:46
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 18:46:47
+--addr 0006 timestamp 2018-08-16 18:46:46
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 18:47:01
+--addr 0006 timestamp 2018-08-16 18:46:46
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 18:47:01
+--addr 0006 timestamp 2018-08-16 18:47:04
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 18:47:09
+--addr 0006 timestamp 2018-08-16 18:47:04
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 18:47:09
+--addr 0002 timestamp 2018-08-16 18:47:17
+--addr 0006 timestamp 2018-08-16 18:47:04
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 18:47:21
+--addr 0002 timestamp 2018-08-16 18:47:17
+--addr 0006 timestamp 2018-08-16 18:47:04
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 18:47:21
+--addr 0002 timestamp 2018-08-16 18:47:32
+--addr 0006 timestamp 2018-08-16 18:47:04
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 18:47:21
+--addr 0002 timestamp 2018-08-16 18:47:32
+--addr 0006 timestamp 2018-08-16 18:47:36
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 18:47:38
+--addr 0002 timestamp 2018-08-16 18:47:32
+--addr 0006 timestamp 2018-08-16 18:47:36
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 18:47:38
+--addr 0002 timestamp 2018-08-16 18:47:38
+--addr 0006 timestamp 2018-08-16 18:47:36
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 18:47:38
+--addr 0002 timestamp 2018-08-16 18:47:38
+--addr 0006 timestamp 2018-08-16 18:47:36
+--addr 0003 timestamp 2018-08-16 18:47:43
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 18:47:38
+--addr 0002 timestamp 2018-08-16 18:47:38
+--addr 0006 timestamp 2018-08-16 18:47:36
+--addr 0003 timestamp 2018-08-16 18:47:46
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 18:47:38
+--addr 0002 timestamp 2018-08-16 18:47:38
+--addr 0006 timestamp 2018-08-16 18:47:46
+--addr 0003 timestamp 2018-08-16 18:47:46
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 18:47:48
+--addr 0002 timestamp 2018-08-16 18:47:38
+--addr 0006 timestamp 2018-08-16 18:47:46
+--addr 0003 timestamp 2018-08-16 18:47:46
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 18:47:48
+--addr 0002 timestamp 2018-08-16 18:47:51
+--addr 0006 timestamp 2018-08-16 18:47:46
+--addr 0003 timestamp 2018-08-16 18:47:46
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 18:47:56
+--addr 0002 timestamp 2018-08-16 18:47:51
+--addr 0006 timestamp 2018-08-16 18:47:46
+--addr 0003 timestamp 2018-08-16 18:47:46
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 18:47:56
+--addr 0002 timestamp 2018-08-16 18:47:51
+--addr 0006 timestamp 2018-08-16 18:47:56
+--addr 0003 timestamp 2018-08-16 18:47:46
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 18:47:56
+--addr 0002 timestamp 2018-08-16 18:47:51
+--addr 0006 timestamp 2018-08-16 18:47:56
+--addr 0003 timestamp 2018-08-16 18:47:57
+
+total nodes number: 5
+--addr 0009 timestamp 2018-08-16 18:47:57
+--addr 000A timestamp 2018-08-16 18:47:56
+--addr 0002 timestamp 2018-08-16 18:47:51
+--addr 0006 timestamp 2018-08-16 18:47:56
+--addr 0003 timestamp 2018-08-16 18:47:57
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:02
+--addr 0006 timestamp 2018-08-16 18:47:56
+--addr 000A timestamp 2018-08-16 18:47:56
+--addr 0009 timestamp 2018-08-16 18:47:57
+--addr 0003 timestamp 2018-08-16 18:47:57
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:02
+--addr 0006 timestamp 2018-08-16 18:47:56
+--addr 000A timestamp 2018-08-16 18:47:56
+--addr 0009 timestamp 2018-08-16 18:48:05
+--addr 0003 timestamp 2018-08-16 18:47:57
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:02
+--addr 0006 timestamp 2018-08-16 18:47:56
+--addr 000A timestamp 2018-08-16 18:48:07
+--addr 0009 timestamp 2018-08-16 18:48:05
+--addr 0003 timestamp 2018-08-16 18:47:57
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:10
+--addr 0006 timestamp 2018-08-16 18:47:56
+--addr 000A timestamp 2018-08-16 18:48:07
+--addr 0009 timestamp 2018-08-16 18:48:05
+--addr 0003 timestamp 2018-08-16 18:47:57
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:10
+--addr 0006 timestamp 2018-08-16 18:48:11
+--addr 000A timestamp 2018-08-16 18:48:07
+--addr 0009 timestamp 2018-08-16 18:48:05
+--addr 0003 timestamp 2018-08-16 18:47:57
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:10
+--addr 0006 timestamp 2018-08-16 18:48:11
+--addr 000A timestamp 2018-08-16 18:48:07
+--addr 0009 timestamp 2018-08-16 18:48:05
+--addr 0003 timestamp 2018-08-16 18:48:12
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:10
+--addr 0006 timestamp 2018-08-16 18:48:11
+--addr 000A timestamp 2018-08-16 18:48:07
+--addr 0009 timestamp 2018-08-16 18:48:19
+--addr 0003 timestamp 2018-08-16 18:48:12
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:10
+--addr 0006 timestamp 2018-08-16 18:48:21
+--addr 000A timestamp 2018-08-16 18:48:07
+--addr 0009 timestamp 2018-08-16 18:48:19
+--addr 0003 timestamp 2018-08-16 18:48:12
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:10
+--addr 0006 timestamp 2018-08-16 18:48:21
+--addr 000A timestamp 2018-08-16 18:48:24
+--addr 0009 timestamp 2018-08-16 18:48:19
+--addr 0003 timestamp 2018-08-16 18:48:12
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:25
+--addr 0006 timestamp 2018-08-16 18:48:21
+--addr 000A timestamp 2018-08-16 18:48:24
+--addr 0009 timestamp 2018-08-16 18:48:19
+--addr 0003 timestamp 2018-08-16 18:48:12
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:25
+--addr 0006 timestamp 2018-08-16 18:48:21
+--addr 000A timestamp 2018-08-16 18:48:24
+--addr 0009 timestamp 2018-08-16 18:48:27
+--addr 0003 timestamp 2018-08-16 18:48:12
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:25
+--addr 0006 timestamp 2018-08-16 18:48:21
+--addr 000A timestamp 2018-08-16 18:48:24
+--addr 0009 timestamp 2018-08-16 18:48:27
+--addr 0003 timestamp 2018-08-16 18:48:28
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:25
+--addr 0006 timestamp 2018-08-16 18:48:21
+--addr 000A timestamp 2018-08-16 18:48:24
+--addr 0009 timestamp 2018-08-16 18:48:27
+--addr 0003 timestamp 2018-08-16 18:48:38
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:25
+--addr 0006 timestamp 2018-08-16 18:48:21
+--addr 000A timestamp 2018-08-16 18:48:41
+--addr 0009 timestamp 2018-08-16 18:48:27
+--addr 0003 timestamp 2018-08-16 18:48:38
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:41
+--addr 0006 timestamp 2018-08-16 18:48:21
+--addr 000A timestamp 2018-08-16 18:48:41
+--addr 0009 timestamp 2018-08-16 18:48:27
+--addr 0003 timestamp 2018-08-16 18:48:38
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:41
+--addr 0006 timestamp 2018-08-16 18:48:21
+--addr 000A timestamp 2018-08-16 18:48:41
+--addr 0009 timestamp 2018-08-16 18:48:43
+--addr 0003 timestamp 2018-08-16 18:48:38
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:41
+--addr 0006 timestamp 2018-08-16 18:48:21
+--addr 000A timestamp 2018-08-16 18:48:41
+--addr 0009 timestamp 2018-08-16 18:48:43
+--addr 0003 timestamp 2018-08-16 18:48:45
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:49
+--addr 0006 timestamp 2018-08-16 18:48:21
+--addr 000A timestamp 2018-08-16 18:48:41
+--addr 0009 timestamp 2018-08-16 18:48:43
+--addr 0003 timestamp 2018-08-16 18:48:45
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:49
+--addr 0006 timestamp 2018-08-16 18:48:21
+--addr 000A timestamp 2018-08-16 18:48:55
+--addr 0009 timestamp 2018-08-16 18:48:43
+--addr 0003 timestamp 2018-08-16 18:48:45
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:49
+--addr 0006 timestamp 2018-08-16 18:48:21
+--addr 000A timestamp 2018-08-16 18:48:55
+--addr 0009 timestamp 2018-08-16 18:48:43
+--addr 0003 timestamp 2018-08-16 18:48:57
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:48:49
+--addr 0006 timestamp 2018-08-16 18:48:21
+--addr 000A timestamp 2018-08-16 18:48:55
+--addr 0009 timestamp 2018-08-16 18:48:57
+--addr 0003 timestamp 2018-08-16 18:48:57
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:49:00
+--addr 0006 timestamp 2018-08-16 18:48:21
+--addr 000A timestamp 2018-08-16 18:48:55
+--addr 0009 timestamp 2018-08-16 18:48:57
+--addr 0003 timestamp 2018-08-16 18:48:57
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:49:00
+--addr 0006 timestamp 2018-08-16 18:49:00
+--addr 000A timestamp 2018-08-16 18:48:55
+--addr 0009 timestamp 2018-08-16 18:48:57
+--addr 0003 timestamp 2018-08-16 18:48:57
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:49:03
+--addr 0006 timestamp 2018-08-16 18:49:00
+--addr 000A timestamp 2018-08-16 18:48:55
+--addr 0009 timestamp 2018-08-16 18:48:57
+--addr 0003 timestamp 2018-08-16 18:48:57
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:49:03
+--addr 0006 timestamp 2018-08-16 18:49:00
+--addr 000A timestamp 2018-08-16 18:48:55
+--addr 0009 timestamp 2018-08-16 18:48:57
+--addr 0003 timestamp 2018-08-16 18:49:06
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:49:03
+--addr 0006 timestamp 2018-08-16 18:49:00
+--addr 000A timestamp 2018-08-16 18:48:55
+--addr 0009 timestamp 2018-08-16 18:49:06
+--addr 0003 timestamp 2018-08-16 18:49:06
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:49:03
+--addr 0006 timestamp 2018-08-16 18:49:09
+--addr 000A timestamp 2018-08-16 18:48:55
+--addr 0009 timestamp 2018-08-16 18:49:06
+--addr 0003 timestamp 2018-08-16 18:49:06
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:49:03
+--addr 0006 timestamp 2018-08-16 18:49:09
+--addr 000A timestamp 2018-08-16 18:49:10
+--addr 0009 timestamp 2018-08-16 18:49:06
+--addr 0003 timestamp 2018-08-16 18:49:06
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:49:14
+--addr 0006 timestamp 2018-08-16 18:49:09
+--addr 000A timestamp 2018-08-16 18:49:10
+--addr 0009 timestamp 2018-08-16 18:49:06
+--addr 0003 timestamp 2018-08-16 18:49:06
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:49:14
+--addr 0006 timestamp 2018-08-16 18:49:09
+--addr 000A timestamp 2018-08-16 18:49:16
+--addr 0009 timestamp 2018-08-16 18:49:06
+--addr 0003 timestamp 2018-08-16 18:49:06
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:49:14
+--addr 0006 timestamp 2018-08-16 18:49:09
+--addr 000A timestamp 2018-08-16 18:49:16
+--addr 0009 timestamp 2018-08-16 18:49:19
+--addr 0003 timestamp 2018-08-16 18:49:06
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:49:14
+--addr 0006 timestamp 2018-08-16 18:49:09
+--addr 000A timestamp 2018-08-16 18:49:16
+--addr 0009 timestamp 2018-08-16 18:49:19
+--addr 0003 timestamp 2018-08-16 18:49:23
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 18:49:14
+--addr 0006 timestamp 2018-08-16 18:49:09
+--addr 000A timestamp 2018-08-16 18:49:16
+--addr 0009 timestamp 2018-08-16 18:49:19
+--addr 0003 timestamp 2018-08-16 18:49:24
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 18:54:05
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 18:54:13
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 18:54:28
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 18:54:42
+--addr 0006 timestamp 2018-08-16 18:54:28
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 18:54:42
+--addr 0006 timestamp 2018-08-16 18:54:44
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 18:54:42
+--addr 0006 timestamp 2018-08-16 18:54:51
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 18:54:54
+--addr 0006 timestamp 2018-08-16 18:54:51
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 18:55:01
+--addr 0006 timestamp 2018-08-16 18:54:51
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 18:55:01
+--addr 0006 timestamp 2018-08-16 18:55:09
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 18:55:01
+--addr 0002 timestamp 2018-08-16 18:55:09
+--addr 0006 timestamp 2018-08-16 18:55:09
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 18:55:12
+--addr 0002 timestamp 2018-08-16 18:55:09
+--addr 0006 timestamp 2018-08-16 18:55:09
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 19:09:46
+
+total nodes number: 1
+--addr 000A timestamp 2018-08-16 19:13:36
+
+total nodes number: 1
+--addr 000A timestamp 2018-08-16 19:13:50
+
+total nodes number: 1
+--addr 000A timestamp 2018-08-16 19:13:57
+
+total nodes number: 1
+--addr 000A timestamp 2018-08-16 19:14:08
+
+total nodes number: 2
+--addr 0008 timestamp 2018-08-16 19:14:13
+--addr 000A timestamp 2018-08-16 19:14:08
+
+total nodes number: 2
+--addr 0008 timestamp 2018-08-16 19:14:22
+--addr 000A timestamp 2018-08-16 19:14:08
+
+total nodes number: 2
+--addr 0008 timestamp 2018-08-16 19:14:22
+--addr 000A timestamp 2018-08-16 19:14:24
+
+total nodes number: 3
+--addr 0008 timestamp 2018-08-16 19:14:22
+--addr 000A timestamp 2018-08-16 19:14:24
+--addr 0003 timestamp 2018-08-16 19:14:28
+
+total nodes number: 3
+--addr 0008 timestamp 2018-08-16 19:14:22
+--addr 000A timestamp 2018-08-16 19:14:33
+--addr 0003 timestamp 2018-08-16 19:14:28
+
+total nodes number: 3
+--addr 0008 timestamp 2018-08-16 19:14:22
+--addr 000A timestamp 2018-08-16 19:14:33
+--addr 0003 timestamp 2018-08-16 19:14:39
+
+total nodes number: 3
+--addr 0008 timestamp 2018-08-16 19:14:22
+--addr 000A timestamp 2018-08-16 19:14:40
+--addr 0003 timestamp 2018-08-16 19:14:39
+
+total nodes number: 4
+--addr 0008 timestamp 2018-08-16 19:14:22
+--addr 000A timestamp 2018-08-16 19:14:40
+--addr 0009 timestamp 2018-08-16 19:14:42
+--addr 0003 timestamp 2018-08-16 19:14:39
+
+total nodes number: 4
+--addr 0008 timestamp 2018-08-16 19:14:22
+--addr 000A timestamp 2018-08-16 19:14:40
+--addr 0009 timestamp 2018-08-16 19:14:50
+--addr 0003 timestamp 2018-08-16 19:14:39
+
+total nodes number: 4
+--addr 0008 timestamp 2018-08-16 19:14:22
+--addr 000A timestamp 2018-08-16 19:14:51
+--addr 0009 timestamp 2018-08-16 19:14:50
+--addr 0003 timestamp 2018-08-16 19:14:39
+
+total nodes number: 4
+--addr 0008 timestamp 2018-08-16 19:14:22
+--addr 000A timestamp 2018-08-16 19:14:51
+--addr 0009 timestamp 2018-08-16 19:14:50
+--addr 0003 timestamp 2018-08-16 19:14:56
+
+total nodes number: 4
+--addr 0008 timestamp 2018-08-16 19:14:22
+--addr 000A timestamp 2018-08-16 19:14:51
+--addr 0009 timestamp 2018-08-16 19:14:50
+--addr 0003 timestamp 2018-08-16 19:14:58
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:14:22
+--addr 0002 timestamp 2018-08-16 19:15:02
+--addr 000A timestamp 2018-08-16 19:14:51
+--addr 0009 timestamp 2018-08-16 19:14:50
+--addr 0003 timestamp 2018-08-16 19:14:58
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:03
+--addr 0002 timestamp 2018-08-16 19:15:02
+--addr 000A timestamp 2018-08-16 19:14:51
+--addr 0009 timestamp 2018-08-16 19:14:50
+--addr 0003 timestamp 2018-08-16 19:14:58
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:03
+--addr 0002 timestamp 2018-08-16 19:15:02
+--addr 000A timestamp 2018-08-16 19:14:51
+--addr 0009 timestamp 2018-08-16 19:15:04
+--addr 0003 timestamp 2018-08-16 19:14:58
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:03
+--addr 0002 timestamp 2018-08-16 19:15:02
+--addr 000A timestamp 2018-08-16 19:15:08
+--addr 0009 timestamp 2018-08-16 19:15:04
+--addr 0003 timestamp 2018-08-16 19:14:58
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:03
+--addr 0002 timestamp 2018-08-16 19:15:12
+--addr 000A timestamp 2018-08-16 19:15:08
+--addr 0009 timestamp 2018-08-16 19:15:04
+--addr 0003 timestamp 2018-08-16 19:14:58
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:03
+--addr 0002 timestamp 2018-08-16 19:15:12
+--addr 000A timestamp 2018-08-16 19:15:08
+--addr 0009 timestamp 2018-08-16 19:15:12
+--addr 0003 timestamp 2018-08-16 19:14:58
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:03
+--addr 0002 timestamp 2018-08-16 19:15:12
+--addr 000A timestamp 2018-08-16 19:15:08
+--addr 0009 timestamp 2018-08-16 19:15:12
+--addr 0003 timestamp 2018-08-16 19:15:13
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:13
+--addr 0002 timestamp 2018-08-16 19:15:12
+--addr 000A timestamp 2018-08-16 19:15:08
+--addr 0009 timestamp 2018-08-16 19:15:12
+--addr 0003 timestamp 2018-08-16 19:15:13
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:13
+--addr 0002 timestamp 2018-08-16 19:15:18
+--addr 000A timestamp 2018-08-16 19:15:08
+--addr 0009 timestamp 2018-08-16 19:15:12
+--addr 0003 timestamp 2018-08-16 19:15:13
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:13
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:15:08
+--addr 0009 timestamp 2018-08-16 19:15:12
+--addr 0003 timestamp 2018-08-16 19:15:13
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:13
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:15:26
+--addr 0009 timestamp 2018-08-16 19:15:12
+--addr 0003 timestamp 2018-08-16 19:15:13
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:13
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:15:26
+--addr 0009 timestamp 2018-08-16 19:15:12
+--addr 0003 timestamp 2018-08-16 19:15:26
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:13
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:15:26
+--addr 0009 timestamp 2018-08-16 19:15:28
+--addr 0003 timestamp 2018-08-16 19:15:26
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:13
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:15:26
+--addr 0009 timestamp 2018-08-16 19:15:28
+--addr 0003 timestamp 2018-08-16 19:15:33
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:37
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:15:26
+--addr 0009 timestamp 2018-08-16 19:15:28
+--addr 0003 timestamp 2018-08-16 19:15:33
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:37
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:15:39
+--addr 0009 timestamp 2018-08-16 19:15:28
+--addr 0003 timestamp 2018-08-16 19:15:33
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:37
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:15:39
+--addr 0009 timestamp 2018-08-16 19:15:41
+--addr 0003 timestamp 2018-08-16 19:15:33
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:41
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:15:39
+--addr 0009 timestamp 2018-08-16 19:15:41
+--addr 0003 timestamp 2018-08-16 19:15:33
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:41
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:15:42
+--addr 0009 timestamp 2018-08-16 19:15:41
+--addr 0003 timestamp 2018-08-16 19:15:33
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:41
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:15:46
+--addr 0009 timestamp 2018-08-16 19:15:41
+--addr 0003 timestamp 2018-08-16 19:15:33
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:41
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:15:46
+--addr 0009 timestamp 2018-08-16 19:15:51
+--addr 0003 timestamp 2018-08-16 19:15:33
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:41
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:15:55
+--addr 0009 timestamp 2018-08-16 19:15:51
+--addr 0003 timestamp 2018-08-16 19:15:33
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:41
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:15:55
+--addr 0009 timestamp 2018-08-16 19:15:51
+--addr 0003 timestamp 2018-08-16 19:15:59
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:59
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:15:55
+--addr 0009 timestamp 2018-08-16 19:15:51
+--addr 0003 timestamp 2018-08-16 19:15:59
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:59
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:16:07
+--addr 0009 timestamp 2018-08-16 19:15:51
+--addr 0003 timestamp 2018-08-16 19:15:59
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:15:59
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:16:07
+--addr 0009 timestamp 2018-08-16 19:15:51
+--addr 0003 timestamp 2018-08-16 19:16:11
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:16:12
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:16:07
+--addr 0009 timestamp 2018-08-16 19:15:51
+--addr 0003 timestamp 2018-08-16 19:16:11
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:16:20
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:16:07
+--addr 0009 timestamp 2018-08-16 19:15:51
+--addr 0003 timestamp 2018-08-16 19:16:11
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:16:20
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:16:22
+--addr 0009 timestamp 2018-08-16 19:15:51
+--addr 0003 timestamp 2018-08-16 19:16:11
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:16:20
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:16:22
+--addr 0009 timestamp 2018-08-16 19:15:51
+--addr 0003 timestamp 2018-08-16 19:16:30
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:16:20
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:16:22
+--addr 0009 timestamp 2018-08-16 19:16:35
+--addr 0003 timestamp 2018-08-16 19:16:30
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:16:39
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:16:22
+--addr 0009 timestamp 2018-08-16 19:16:35
+--addr 0003 timestamp 2018-08-16 19:16:30
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:16:39
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:16:41
+--addr 0009 timestamp 2018-08-16 19:16:35
+--addr 0003 timestamp 2018-08-16 19:16:30
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:16:39
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:16:41
+--addr 0009 timestamp 2018-08-16 19:16:41
+--addr 0003 timestamp 2018-08-16 19:16:30
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:16:39
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:16:41
+--addr 0009 timestamp 2018-08-16 19:16:42
+--addr 0003 timestamp 2018-08-16 19:16:30
+
+total nodes number: 5
+--addr 0008 timestamp 2018-08-16 19:16:39
+--addr 0002 timestamp 2018-08-16 19:15:21
+--addr 000A timestamp 2018-08-16 19:16:41
+--addr 0009 timestamp 2018-08-16 19:16:42
+--addr 0003 timestamp 2018-08-16 19:16:43
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 19:21:01
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 19:21:14
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 19:21:20
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 19:21:38
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:21:39
+--addr 0006 timestamp 2018-08-16 19:21:38
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:21:39
+--addr 0006 timestamp 2018-08-16 19:21:40
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:21:39
+--addr 0006 timestamp 2018-08-16 19:21:48
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:21:52
+--addr 0006 timestamp 2018-08-16 19:21:48
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:22:00
+--addr 0006 timestamp 2018-08-16 19:21:48
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:22:00
+--addr 0006 timestamp 2018-08-16 19:22:07
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:22:00
+--addr 0002 timestamp 2018-08-16 19:22:08
+--addr 0006 timestamp 2018-08-16 19:22:07
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:22:11
+--addr 0002 timestamp 2018-08-16 19:22:08
+--addr 0006 timestamp 2018-08-16 19:22:07
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:22:11
+--addr 0002 timestamp 2018-08-16 19:22:22
+--addr 0006 timestamp 2018-08-16 19:22:07
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:22:11
+--addr 0002 timestamp 2018-08-16 19:22:22
+--addr 0006 timestamp 2018-08-16 19:22:22
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:22:28
+--addr 0002 timestamp 2018-08-16 19:22:22
+--addr 0006 timestamp 2018-08-16 19:22:22
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:22:28
+--addr 0002 timestamp 2018-08-16 19:22:28
+--addr 0006 timestamp 2018-08-16 19:22:22
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:22:28
+--addr 0002 timestamp 2018-08-16 19:22:28
+--addr 0006 timestamp 2018-08-16 19:22:30
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:22:28
+--addr 0002 timestamp 2018-08-16 19:22:28
+--addr 0006 timestamp 2018-08-16 19:22:32
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 19:22:28
+--addr 0002 timestamp 2018-08-16 19:22:28
+--addr 0006 timestamp 2018-08-16 19:22:32
+--addr 0003 timestamp 2018-08-16 19:22:32
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 19:22:37
+--addr 0002 timestamp 2018-08-16 19:22:28
+--addr 0006 timestamp 2018-08-16 19:22:32
+--addr 0003 timestamp 2018-08-16 19:22:32
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 19:22:37
+--addr 0002 timestamp 2018-08-16 19:22:41
+--addr 0006 timestamp 2018-08-16 19:22:32
+--addr 0003 timestamp 2018-08-16 19:22:32
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 19:22:37
+--addr 0002 timestamp 2018-08-16 19:22:41
+--addr 0006 timestamp 2018-08-16 19:22:41
+--addr 0003 timestamp 2018-08-16 19:22:32
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 19:22:37
+--addr 0002 timestamp 2018-08-16 19:22:41
+--addr 0006 timestamp 2018-08-16 19:22:41
+--addr 0003 timestamp 2018-08-16 19:22:44
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 19:22:46
+--addr 0002 timestamp 2018-08-16 19:22:41
+--addr 0006 timestamp 2018-08-16 19:22:41
+--addr 0003 timestamp 2018-08-16 19:22:44
+
+total nodes number: 5
+--addr 0009 timestamp 2018-08-16 19:22:48
+--addr 000A timestamp 2018-08-16 19:22:46
+--addr 0002 timestamp 2018-08-16 19:22:41
+--addr 0006 timestamp 2018-08-16 19:22:41
+--addr 0003 timestamp 2018-08-16 19:22:44
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:22:53
+--addr 0006 timestamp 2018-08-16 19:22:41
+--addr 000A timestamp 2018-08-16 19:22:46
+--addr 0009 timestamp 2018-08-16 19:22:48
+--addr 0003 timestamp 2018-08-16 19:22:44
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:22:53
+--addr 0006 timestamp 2018-08-16 19:22:54
+--addr 000A timestamp 2018-08-16 19:22:46
+--addr 0009 timestamp 2018-08-16 19:22:48
+--addr 0003 timestamp 2018-08-16 19:22:44
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:22:53
+--addr 0006 timestamp 2018-08-16 19:22:54
+--addr 000A timestamp 2018-08-16 19:22:46
+--addr 0009 timestamp 2018-08-16 19:22:55
+--addr 0003 timestamp 2018-08-16 19:22:44
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:22:53
+--addr 0006 timestamp 2018-08-16 19:22:54
+--addr 000A timestamp 2018-08-16 19:22:57
+--addr 0009 timestamp 2018-08-16 19:22:55
+--addr 0003 timestamp 2018-08-16 19:22:44
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:23:00
+--addr 0006 timestamp 2018-08-16 19:22:54
+--addr 000A timestamp 2018-08-16 19:22:57
+--addr 0009 timestamp 2018-08-16 19:22:55
+--addr 0003 timestamp 2018-08-16 19:22:44
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:23:00
+--addr 0006 timestamp 2018-08-16 19:23:00
+--addr 000A timestamp 2018-08-16 19:22:57
+--addr 0009 timestamp 2018-08-16 19:22:55
+--addr 0003 timestamp 2018-08-16 19:22:44
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:23:00
+--addr 0006 timestamp 2018-08-16 19:23:00
+--addr 000A timestamp 2018-08-16 19:22:57
+--addr 0009 timestamp 2018-08-16 19:22:55
+--addr 0003 timestamp 2018-08-16 19:23:01
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:23:00
+--addr 0006 timestamp 2018-08-16 19:23:00
+--addr 000A timestamp 2018-08-16 19:22:57
+--addr 0009 timestamp 2018-08-16 19:23:10
+--addr 0003 timestamp 2018-08-16 19:23:01
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:23:00
+--addr 0006 timestamp 2018-08-16 19:23:00
+--addr 000A timestamp 2018-08-16 19:23:15
+--addr 0009 timestamp 2018-08-16 19:23:10
+--addr 0003 timestamp 2018-08-16 19:23:01
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:23:16
+--addr 0006 timestamp 2018-08-16 19:23:00
+--addr 000A timestamp 2018-08-16 19:23:15
+--addr 0009 timestamp 2018-08-16 19:23:10
+--addr 0003 timestamp 2018-08-16 19:23:01
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:23:16
+--addr 0006 timestamp 2018-08-16 19:23:18
+--addr 000A timestamp 2018-08-16 19:23:15
+--addr 0009 timestamp 2018-08-16 19:23:10
+--addr 0003 timestamp 2018-08-16 19:23:01
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:23:16
+--addr 0006 timestamp 2018-08-16 19:23:18
+--addr 000A timestamp 2018-08-16 19:23:15
+--addr 0009 timestamp 2018-08-16 19:23:19
+--addr 0003 timestamp 2018-08-16 19:23:01
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:23:16
+--addr 0006 timestamp 2018-08-16 19:23:18
+--addr 000A timestamp 2018-08-16 19:23:15
+--addr 0009 timestamp 2018-08-16 19:23:19
+--addr 0003 timestamp 2018-08-16 19:23:20
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:23:16
+--addr 0006 timestamp 2018-08-16 19:23:18
+--addr 000A timestamp 2018-08-16 19:23:33
+--addr 0009 timestamp 2018-08-16 19:23:19
+--addr 0003 timestamp 2018-08-16 19:23:20
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:23:33
+--addr 0006 timestamp 2018-08-16 19:23:18
+--addr 000A timestamp 2018-08-16 19:23:33
+--addr 0009 timestamp 2018-08-16 19:23:19
+--addr 0003 timestamp 2018-08-16 19:23:20
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:23:33
+--addr 0006 timestamp 2018-08-16 19:23:18
+--addr 000A timestamp 2018-08-16 19:23:33
+--addr 0009 timestamp 2018-08-16 19:23:35
+--addr 0003 timestamp 2018-08-16 19:23:20
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:23:33
+--addr 0006 timestamp 2018-08-16 19:23:18
+--addr 000A timestamp 2018-08-16 19:23:33
+--addr 0009 timestamp 2018-08-16 19:23:35
+--addr 0003 timestamp 2018-08-16 19:23:36
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:23:41
+--addr 0006 timestamp 2018-08-16 19:23:18
+--addr 000A timestamp 2018-08-16 19:23:33
+--addr 0009 timestamp 2018-08-16 19:23:35
+--addr 0003 timestamp 2018-08-16 19:23:36
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:23:41
+--addr 0006 timestamp 2018-08-16 19:23:41
+--addr 000A timestamp 2018-08-16 19:23:33
+--addr 0009 timestamp 2018-08-16 19:23:35
+--addr 0003 timestamp 2018-08-16 19:23:36
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:23:41
+--addr 0006 timestamp 2018-08-16 19:23:41
+--addr 000A timestamp 2018-08-16 19:23:33
+--addr 0009 timestamp 2018-08-16 19:23:35
+--addr 0003 timestamp 2018-08-16 19:23:43
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 19:31:45
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 19:31:48
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 19:31:58
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 19:32:12
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 19:32:23
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:32:24
+--addr 0006 timestamp 2018-08-16 19:32:23
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:32:24
+--addr 0006 timestamp 2018-08-16 19:32:31
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:32:24
+--addr 0006 timestamp 2018-08-16 19:32:32
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:32:37
+--addr 0006 timestamp 2018-08-16 19:32:32
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:32:37
+--addr 0006 timestamp 2018-08-16 19:32:39
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:32:45
+--addr 0006 timestamp 2018-08-16 19:32:39
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:32:45
+--addr 0006 timestamp 2018-08-16 19:32:59
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:32:59
+--addr 0006 timestamp 2018-08-16 19:32:59
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:32:59
+--addr 0002 timestamp 2018-08-16 19:33:03
+--addr 0006 timestamp 2018-08-16 19:32:59
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:32:59
+--addr 0002 timestamp 2018-08-16 19:33:03
+--addr 0006 timestamp 2018-08-16 19:33:07
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:32:59
+--addr 0002 timestamp 2018-08-16 19:33:08
+--addr 0006 timestamp 2018-08-16 19:33:07
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:33:14
+--addr 0002 timestamp 2018-08-16 19:33:08
+--addr 0006 timestamp 2018-08-16 19:33:07
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:33:14
+--addr 0002 timestamp 2018-08-16 19:33:08
+--addr 0006 timestamp 2018-08-16 19:33:16
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:33:14
+--addr 0002 timestamp 2018-08-16 19:33:25
+--addr 0006 timestamp 2018-08-16 19:33:16
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:33:14
+--addr 0002 timestamp 2018-08-16 19:33:25
+--addr 0006 timestamp 2018-08-16 19:33:27
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:33:14
+--addr 0002 timestamp 2018-08-16 19:33:25
+--addr 0006 timestamp 2018-08-16 19:33:31
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:33:31
+--addr 0002 timestamp 2018-08-16 19:33:25
+--addr 0006 timestamp 2018-08-16 19:33:31
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:33:37
+--addr 0002 timestamp 2018-08-16 19:33:25
+--addr 0006 timestamp 2018-08-16 19:33:31
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:33:37
+--addr 0002 timestamp 2018-08-16 19:33:25
+--addr 0006 timestamp 2018-08-16 19:33:38
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:33:37
+--addr 0002 timestamp 2018-08-16 19:33:40
+--addr 0006 timestamp 2018-08-16 19:33:38
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:33:37
+--addr 0002 timestamp 2018-08-16 19:33:58
+--addr 0006 timestamp 2018-08-16 19:33:38
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:34:03
+--addr 0002 timestamp 2018-08-16 19:33:58
+--addr 0006 timestamp 2018-08-16 19:33:38
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:34:03
+--addr 0002 timestamp 2018-08-16 19:33:58
+--addr 0006 timestamp 2018-08-16 19:34:21
+
+total nodes number: 1
+--addr 0002 timestamp 2018-08-16 19:42:16
+
+total nodes number: 1
+--addr 0002 timestamp 2018-08-16 19:42:31
+
+total nodes number: 1
+--addr 0002 timestamp 2018-08-16 19:42:37
+
+total nodes number: 2
+--addr 0002 timestamp 2018-08-16 19:42:37
+--addr 0003 timestamp 2018-08-16 19:42:42
+
+total nodes number: 2
+--addr 0002 timestamp 2018-08-16 19:42:49
+--addr 0003 timestamp 2018-08-16 19:42:42
+
+total nodes number: 2
+--addr 0002 timestamp 2018-08-16 19:42:49
+--addr 0003 timestamp 2018-08-16 19:42:53
+
+total nodes number: 2
+--addr 0002 timestamp 2018-08-16 19:42:55
+--addr 0003 timestamp 2018-08-16 19:42:53
+
+total nodes number: 2
+--addr 0002 timestamp 2018-08-16 19:42:55
+--addr 0003 timestamp 2018-08-16 19:42:58
+
+total nodes number: 2
+--addr 0002 timestamp 2018-08-16 19:43:01
+--addr 0003 timestamp 2018-08-16 19:42:58
+
+total nodes number: 2
+--addr 0002 timestamp 2018-08-16 19:43:04
+--addr 0003 timestamp 2018-08-16 19:42:58
+
+total nodes number: 3
+--addr 0002 timestamp 2018-08-16 19:43:04
+--addr 0009 timestamp 2018-08-16 19:43:05
+--addr 0003 timestamp 2018-08-16 19:42:58
+
+total nodes number: 3
+--addr 0002 timestamp 2018-08-16 19:43:04
+--addr 0009 timestamp 2018-08-16 19:43:05
+--addr 0003 timestamp 2018-08-16 19:43:10
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:43:04
+--addr 0004 timestamp 2018-08-16 19:43:17
+--addr 0009 timestamp 2018-08-16 19:43:05
+--addr 0003 timestamp 2018-08-16 19:43:10
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:43:17
+--addr 0004 timestamp 2018-08-16 19:43:17
+--addr 0009 timestamp 2018-08-16 19:43:05
+--addr 0003 timestamp 2018-08-16 19:43:10
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:43:17
+--addr 0004 timestamp 2018-08-16 19:43:17
+--addr 0009 timestamp 2018-08-16 19:43:26
+--addr 0003 timestamp 2018-08-16 19:43:10
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:43:17
+--addr 0004 timestamp 2018-08-16 19:43:17
+--addr 0009 timestamp 2018-08-16 19:43:26
+--addr 0003 timestamp 2018-08-16 19:43:27
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:43:32
+--addr 0004 timestamp 2018-08-16 19:43:17
+--addr 0009 timestamp 2018-08-16 19:43:26
+--addr 0003 timestamp 2018-08-16 19:43:27
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:43:32
+--addr 0004 timestamp 2018-08-16 19:43:17
+--addr 0009 timestamp 2018-08-16 19:43:26
+--addr 0003 timestamp 2018-08-16 19:43:35
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:43:32
+--addr 0004 timestamp 2018-08-16 19:43:39
+--addr 0009 timestamp 2018-08-16 19:43:26
+--addr 0003 timestamp 2018-08-16 19:43:35
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:43:32
+--addr 0004 timestamp 2018-08-16 19:43:39
+--addr 0009 timestamp 2018-08-16 19:43:41
+--addr 0003 timestamp 2018-08-16 19:43:35
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:43:46
+--addr 0004 timestamp 2018-08-16 19:43:39
+--addr 0009 timestamp 2018-08-16 19:43:41
+--addr 0003 timestamp 2018-08-16 19:43:35
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:43:46
+--addr 0004 timestamp 2018-08-16 19:43:49
+--addr 0009 timestamp 2018-08-16 19:43:41
+--addr 0003 timestamp 2018-08-16 19:43:35
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:43:46
+--addr 0004 timestamp 2018-08-16 19:43:49
+--addr 0009 timestamp 2018-08-16 19:43:41
+--addr 0003 timestamp 2018-08-16 19:43:52
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:43:58
+--addr 0004 timestamp 2018-08-16 19:43:49
+--addr 0009 timestamp 2018-08-16 19:43:41
+--addr 0003 timestamp 2018-08-16 19:43:52
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:43:58
+--addr 0004 timestamp 2018-08-16 19:43:49
+--addr 0009 timestamp 2018-08-16 19:43:41
+--addr 0003 timestamp 2018-08-16 19:44:01
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:43:58
+--addr 0004 timestamp 2018-08-16 19:44:02
+--addr 0009 timestamp 2018-08-16 19:43:41
+--addr 0003 timestamp 2018-08-16 19:44:01
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:43:58
+--addr 0004 timestamp 2018-08-16 19:44:02
+--addr 0009 timestamp 2018-08-16 19:43:41
+--addr 0003 timestamp 2018-08-16 19:44:04
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:44:06
+--addr 0004 timestamp 2018-08-16 19:44:02
+--addr 0009 timestamp 2018-08-16 19:43:41
+--addr 0003 timestamp 2018-08-16 19:44:04
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:44:06
+--addr 0004 timestamp 2018-08-16 19:44:02
+--addr 0009 timestamp 2018-08-16 19:43:41
+--addr 0003 timestamp 2018-08-16 19:44:11
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:44:06
+--addr 0004 timestamp 2018-08-16 19:44:02
+--addr 0009 timestamp 2018-08-16 19:44:13
+--addr 0003 timestamp 2018-08-16 19:44:11
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:44:19
+--addr 0004 timestamp 2018-08-16 19:44:02
+--addr 0009 timestamp 2018-08-16 19:44:13
+--addr 0003 timestamp 2018-08-16 19:44:11
+
+total nodes number: 4
+--addr 0002 timestamp 2018-08-16 19:44:19
+--addr 0004 timestamp 2018-08-16 19:44:28
+--addr 0009 timestamp 2018-08-16 19:44:13
+--addr 0003 timestamp 2018-08-16 19:44:11
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 19:51:41
+
+total nodes number: 1
+--addr 0006 timestamp 2018-08-16 19:51:54
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:52:23
+--addr 0006 timestamp 2018-08-16 19:51:54
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:52:23
+--addr 0006 timestamp 2018-08-16 19:52:31
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:52:35
+--addr 0006 timestamp 2018-08-16 19:52:31
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:52:35
+--addr 0006 timestamp 2018-08-16 19:52:37
+
+total nodes number: 2
+--addr 000A timestamp 2018-08-16 19:52:44
+--addr 0006 timestamp 2018-08-16 19:52:37
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:52:44
+--addr 0002 timestamp 2018-08-16 19:52:48
+--addr 0006 timestamp 2018-08-16 19:52:37
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:53:01
+--addr 0002 timestamp 2018-08-16 19:52:48
+--addr 0006 timestamp 2018-08-16 19:52:37
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:53:01
+--addr 0002 timestamp 2018-08-16 19:53:03
+--addr 0006 timestamp 2018-08-16 19:52:37
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:53:01
+--addr 0002 timestamp 2018-08-16 19:53:09
+--addr 0006 timestamp 2018-08-16 19:52:37
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:53:01
+--addr 0002 timestamp 2018-08-16 19:53:09
+--addr 0006 timestamp 2018-08-16 19:53:10
+
+total nodes number: 3
+--addr 000A timestamp 2018-08-16 19:53:11
+--addr 0002 timestamp 2018-08-16 19:53:09
+--addr 0006 timestamp 2018-08-16 19:53:10
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 19:53:11
+--addr 0002 timestamp 2018-08-16 19:53:09
+--addr 0006 timestamp 2018-08-16 19:53:10
+--addr 0003 timestamp 2018-08-16 19:53:13
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 19:53:11
+--addr 0002 timestamp 2018-08-16 19:53:22
+--addr 0006 timestamp 2018-08-16 19:53:10
+--addr 0003 timestamp 2018-08-16 19:53:13
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 19:53:11
+--addr 0002 timestamp 2018-08-16 19:53:22
+--addr 0006 timestamp 2018-08-16 19:53:10
+--addr 0003 timestamp 2018-08-16 19:53:25
+
+total nodes number: 4
+--addr 000A timestamp 2018-08-16 19:53:28
+--addr 0002 timestamp 2018-08-16 19:53:22
+--addr 0006 timestamp 2018-08-16 19:53:10
+--addr 0003 timestamp 2018-08-16 19:53:25
+
+total nodes number: 5
+--addr 0009 timestamp 2018-08-16 19:53:29
+--addr 000A timestamp 2018-08-16 19:53:28
+--addr 0002 timestamp 2018-08-16 19:53:22
+--addr 0006 timestamp 2018-08-16 19:53:10
+--addr 0003 timestamp 2018-08-16 19:53:25
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:53:33
+--addr 0006 timestamp 2018-08-16 19:53:10
+--addr 000A timestamp 2018-08-16 19:53:28
+--addr 0009 timestamp 2018-08-16 19:53:29
+--addr 0003 timestamp 2018-08-16 19:53:25
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:53:41
+--addr 0006 timestamp 2018-08-16 19:53:10
+--addr 000A timestamp 2018-08-16 19:53:28
+--addr 0009 timestamp 2018-08-16 19:53:29
+--addr 0003 timestamp 2018-08-16 19:53:25
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:53:41
+--addr 0006 timestamp 2018-08-16 19:53:10
+--addr 000A timestamp 2018-08-16 19:53:28
+--addr 0009 timestamp 2018-08-16 19:53:41
+--addr 0003 timestamp 2018-08-16 19:53:25
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:53:41
+--addr 0006 timestamp 2018-08-16 19:53:10
+--addr 000A timestamp 2018-08-16 19:53:28
+--addr 0009 timestamp 2018-08-16 19:53:41
+--addr 0003 timestamp 2018-08-16 19:53:42
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:53:41
+--addr 0006 timestamp 2018-08-16 19:53:10
+--addr 000A timestamp 2018-08-16 19:53:47
+--addr 0009 timestamp 2018-08-16 19:53:41
+--addr 0003 timestamp 2018-08-16 19:53:42
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:53:41
+--addr 0006 timestamp 2018-08-16 19:53:55
+--addr 000A timestamp 2018-08-16 19:53:47
+--addr 0009 timestamp 2018-08-16 19:53:41
+--addr 0003 timestamp 2018-08-16 19:53:42
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:53:57
+--addr 0006 timestamp 2018-08-16 19:53:55
+--addr 000A timestamp 2018-08-16 19:53:47
+--addr 0009 timestamp 2018-08-16 19:53:41
+--addr 0003 timestamp 2018-08-16 19:53:42
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:53:57
+--addr 0006 timestamp 2018-08-16 19:53:55
+--addr 000A timestamp 2018-08-16 19:53:47
+--addr 0009 timestamp 2018-08-16 19:53:57
+--addr 0003 timestamp 2018-08-16 19:53:42
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:53:57
+--addr 0006 timestamp 2018-08-16 19:53:55
+--addr 000A timestamp 2018-08-16 19:54:00
+--addr 0009 timestamp 2018-08-16 19:53:57
+--addr 0003 timestamp 2018-08-16 19:53:42
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:53:57
+--addr 0006 timestamp 2018-08-16 19:53:55
+--addr 000A timestamp 2018-08-16 19:54:00
+--addr 0009 timestamp 2018-08-16 19:53:57
+--addr 0003 timestamp 2018-08-16 19:54:01
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:53:57
+--addr 0006 timestamp 2018-08-16 19:53:55
+--addr 000A timestamp 2018-08-16 19:54:00
+--addr 0009 timestamp 2018-08-16 19:54:08
+--addr 0003 timestamp 2018-08-16 19:54:01
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:53:57
+--addr 0006 timestamp 2018-08-16 19:53:55
+--addr 000A timestamp 2018-08-16 19:54:10
+--addr 0009 timestamp 2018-08-16 19:54:08
+--addr 0003 timestamp 2018-08-16 19:54:01
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:14
+--addr 0006 timestamp 2018-08-16 19:53:55
+--addr 000A timestamp 2018-08-16 19:54:10
+--addr 0009 timestamp 2018-08-16 19:54:08
+--addr 0003 timestamp 2018-08-16 19:54:01
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:14
+--addr 0006 timestamp 2018-08-16 19:53:55
+--addr 000A timestamp 2018-08-16 19:54:10
+--addr 0009 timestamp 2018-08-16 19:54:16
+--addr 0003 timestamp 2018-08-16 19:54:01
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:14
+--addr 0006 timestamp 2018-08-16 19:54:16
+--addr 000A timestamp 2018-08-16 19:54:10
+--addr 0009 timestamp 2018-08-16 19:54:16
+--addr 0003 timestamp 2018-08-16 19:54:01
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:14
+--addr 0006 timestamp 2018-08-16 19:54:16
+--addr 000A timestamp 2018-08-16 19:54:10
+--addr 0009 timestamp 2018-08-16 19:54:16
+--addr 0003 timestamp 2018-08-16 19:54:17
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:22
+--addr 0006 timestamp 2018-08-16 19:54:16
+--addr 000A timestamp 2018-08-16 19:54:10
+--addr 0009 timestamp 2018-08-16 19:54:16
+--addr 0003 timestamp 2018-08-16 19:54:17
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:22
+--addr 0006 timestamp 2018-08-16 19:54:16
+--addr 000A timestamp 2018-08-16 19:54:10
+--addr 0009 timestamp 2018-08-16 19:54:22
+--addr 0003 timestamp 2018-08-16 19:54:17
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:22
+--addr 0006 timestamp 2018-08-16 19:54:16
+--addr 000A timestamp 2018-08-16 19:54:23
+--addr 0009 timestamp 2018-08-16 19:54:22
+--addr 0003 timestamp 2018-08-16 19:54:17
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:22
+--addr 0006 timestamp 2018-08-16 19:54:16
+--addr 000A timestamp 2018-08-16 19:54:23
+--addr 0009 timestamp 2018-08-16 19:54:22
+--addr 0003 timestamp 2018-08-16 19:54:24
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:22
+--addr 0006 timestamp 2018-08-16 19:54:25
+--addr 000A timestamp 2018-08-16 19:54:23
+--addr 0009 timestamp 2018-08-16 19:54:22
+--addr 0003 timestamp 2018-08-16 19:54:24
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:22
+--addr 0006 timestamp 2018-08-16 19:54:25
+--addr 000A timestamp 2018-08-16 19:54:23
+--addr 0009 timestamp 2018-08-16 19:54:30
+--addr 0003 timestamp 2018-08-16 19:54:24
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:34
+--addr 0006 timestamp 2018-08-16 19:54:25
+--addr 000A timestamp 2018-08-16 19:54:23
+--addr 0009 timestamp 2018-08-16 19:54:30
+--addr 0003 timestamp 2018-08-16 19:54:24
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:34
+--addr 0006 timestamp 2018-08-16 19:54:37
+--addr 000A timestamp 2018-08-16 19:54:23
+--addr 0009 timestamp 2018-08-16 19:54:30
+--addr 0003 timestamp 2018-08-16 19:54:24
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:34
+--addr 0006 timestamp 2018-08-16 19:54:37
+--addr 000A timestamp 2018-08-16 19:54:23
+--addr 0009 timestamp 2018-08-16 19:54:30
+--addr 0003 timestamp 2018-08-16 19:54:40
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:34
+--addr 0006 timestamp 2018-08-16 19:54:37
+--addr 000A timestamp 2018-08-16 19:54:42
+--addr 0009 timestamp 2018-08-16 19:54:30
+--addr 0003 timestamp 2018-08-16 19:54:40
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:34
+--addr 0006 timestamp 2018-08-16 19:54:37
+--addr 000A timestamp 2018-08-16 19:54:42
+--addr 0009 timestamp 2018-08-16 19:54:47
+--addr 0003 timestamp 2018-08-16 19:54:40
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:48
+--addr 0006 timestamp 2018-08-16 19:54:37
+--addr 000A timestamp 2018-08-16 19:54:42
+--addr 0009 timestamp 2018-08-16 19:54:47
+--addr 0003 timestamp 2018-08-16 19:54:40
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:48
+--addr 0006 timestamp 2018-08-16 19:54:37
+--addr 000A timestamp 2018-08-16 19:54:42
+--addr 0009 timestamp 2018-08-16 19:54:47
+--addr 0003 timestamp 2018-08-16 19:54:48
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:48
+--addr 0006 timestamp 2018-08-16 19:54:37
+--addr 000A timestamp 2018-08-16 19:54:42
+--addr 0009 timestamp 2018-08-16 19:54:47
+--addr 0003 timestamp 2018-08-16 19:54:57
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:54:48
+--addr 0006 timestamp 2018-08-16 19:54:37
+--addr 000A timestamp 2018-08-16 19:54:42
+--addr 0009 timestamp 2018-08-16 19:55:00
+--addr 0003 timestamp 2018-08-16 19:54:57
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:01
+--addr 0006 timestamp 2018-08-16 19:54:37
+--addr 000A timestamp 2018-08-16 19:54:42
+--addr 0009 timestamp 2018-08-16 19:55:00
+--addr 0003 timestamp 2018-08-16 19:54:57
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:01
+--addr 0006 timestamp 2018-08-16 19:55:06
+--addr 000A timestamp 2018-08-16 19:54:42
+--addr 0009 timestamp 2018-08-16 19:55:00
+--addr 0003 timestamp 2018-08-16 19:54:57
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:01
+--addr 0006 timestamp 2018-08-16 19:55:08
+--addr 000A timestamp 2018-08-16 19:54:42
+--addr 0009 timestamp 2018-08-16 19:55:00
+--addr 0003 timestamp 2018-08-16 19:54:57
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:01
+--addr 0006 timestamp 2018-08-16 19:55:08
+--addr 000A timestamp 2018-08-16 19:54:42
+--addr 0009 timestamp 2018-08-16 19:55:16
+--addr 0003 timestamp 2018-08-16 19:54:57
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:01
+--addr 0006 timestamp 2018-08-16 19:55:08
+--addr 000A timestamp 2018-08-16 19:54:42
+--addr 0009 timestamp 2018-08-16 19:55:16
+--addr 0003 timestamp 2018-08-16 19:55:18
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:01
+--addr 0006 timestamp 2018-08-16 19:55:08
+--addr 000A timestamp 2018-08-16 19:55:19
+--addr 0009 timestamp 2018-08-16 19:55:16
+--addr 0003 timestamp 2018-08-16 19:55:18
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:21
+--addr 0006 timestamp 2018-08-16 19:55:08
+--addr 000A timestamp 2018-08-16 19:55:19
+--addr 0009 timestamp 2018-08-16 19:55:16
+--addr 0003 timestamp 2018-08-16 19:55:18
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:21
+--addr 0006 timestamp 2018-08-16 19:55:08
+--addr 000A timestamp 2018-08-16 19:55:19
+--addr 0009 timestamp 2018-08-16 19:55:16
+--addr 0003 timestamp 2018-08-16 19:55:22
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:21
+--addr 0006 timestamp 2018-08-16 19:55:22
+--addr 000A timestamp 2018-08-16 19:55:19
+--addr 0009 timestamp 2018-08-16 19:55:16
+--addr 0003 timestamp 2018-08-16 19:55:22
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:21
+--addr 0006 timestamp 2018-08-16 19:55:23
+--addr 000A timestamp 2018-08-16 19:55:19
+--addr 0009 timestamp 2018-08-16 19:55:16
+--addr 0003 timestamp 2018-08-16 19:55:22
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:21
+--addr 0006 timestamp 2018-08-16 19:55:23
+--addr 000A timestamp 2018-08-16 19:55:19
+--addr 0009 timestamp 2018-08-16 19:55:26
+--addr 0003 timestamp 2018-08-16 19:55:22
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:21
+--addr 0006 timestamp 2018-08-16 19:55:23
+--addr 000A timestamp 2018-08-16 19:55:32
+--addr 0009 timestamp 2018-08-16 19:55:26
+--addr 0003 timestamp 2018-08-16 19:55:22
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:21
+--addr 0006 timestamp 2018-08-16 19:55:23
+--addr 000A timestamp 2018-08-16 19:55:32
+--addr 0009 timestamp 2018-08-16 19:55:26
+--addr 0003 timestamp 2018-08-16 19:55:33
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:35
+--addr 0006 timestamp 2018-08-16 19:55:23
+--addr 000A timestamp 2018-08-16 19:55:32
+--addr 0009 timestamp 2018-08-16 19:55:26
+--addr 0003 timestamp 2018-08-16 19:55:33
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:35
+--addr 0006 timestamp 2018-08-16 19:55:23
+--addr 000A timestamp 2018-08-16 19:55:32
+--addr 0009 timestamp 2018-08-16 19:55:44
+--addr 0003 timestamp 2018-08-16 19:55:33
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:35
+--addr 0006 timestamp 2018-08-16 19:55:48
+--addr 000A timestamp 2018-08-16 19:55:32
+--addr 0009 timestamp 2018-08-16 19:55:44
+--addr 0003 timestamp 2018-08-16 19:55:33
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:35
+--addr 0006 timestamp 2018-08-16 19:55:48
+--addr 000A timestamp 2018-08-16 19:55:49
+--addr 0009 timestamp 2018-08-16 19:55:44
+--addr 0003 timestamp 2018-08-16 19:55:33
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:35
+--addr 0006 timestamp 2018-08-16 19:55:48
+--addr 000A timestamp 2018-08-16 19:55:49
+--addr 0009 timestamp 2018-08-16 19:55:44
+--addr 0003 timestamp 2018-08-16 19:55:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:53
+--addr 0006 timestamp 2018-08-16 19:55:48
+--addr 000A timestamp 2018-08-16 19:55:49
+--addr 0009 timestamp 2018-08-16 19:55:44
+--addr 0003 timestamp 2018-08-16 19:55:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:53
+--addr 0006 timestamp 2018-08-16 19:55:48
+--addr 000A timestamp 2018-08-16 19:55:49
+--addr 0009 timestamp 2018-08-16 19:56:00
+--addr 0003 timestamp 2018-08-16 19:55:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:53
+--addr 0006 timestamp 2018-08-16 19:55:48
+--addr 000A timestamp 2018-08-16 19:56:01
+--addr 0009 timestamp 2018-08-16 19:56:00
+--addr 0003 timestamp 2018-08-16 19:55:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:55:53
+--addr 0006 timestamp 2018-08-16 19:55:48
+--addr 000A timestamp 2018-08-16 19:56:01
+--addr 0009 timestamp 2018-08-16 19:56:09
+--addr 0003 timestamp 2018-08-16 19:55:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:10
+--addr 0006 timestamp 2018-08-16 19:55:48
+--addr 000A timestamp 2018-08-16 19:56:01
+--addr 0009 timestamp 2018-08-16 19:56:09
+--addr 0003 timestamp 2018-08-16 19:55:52
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:10
+--addr 0006 timestamp 2018-08-16 19:55:48
+--addr 000A timestamp 2018-08-16 19:56:01
+--addr 0009 timestamp 2018-08-16 19:56:09
+--addr 0003 timestamp 2018-08-16 19:56:10
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:10
+--addr 0006 timestamp 2018-08-16 19:56:10
+--addr 000A timestamp 2018-08-16 19:56:01
+--addr 0009 timestamp 2018-08-16 19:56:09
+--addr 0003 timestamp 2018-08-16 19:56:10
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:17
+--addr 0006 timestamp 2018-08-16 19:56:10
+--addr 000A timestamp 2018-08-16 19:56:01
+--addr 0009 timestamp 2018-08-16 19:56:09
+--addr 0003 timestamp 2018-08-16 19:56:10
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:17
+--addr 0006 timestamp 2018-08-16 19:56:10
+--addr 000A timestamp 2018-08-16 19:56:18
+--addr 0009 timestamp 2018-08-16 19:56:09
+--addr 0003 timestamp 2018-08-16 19:56:10
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:17
+--addr 0006 timestamp 2018-08-16 19:56:10
+--addr 000A timestamp 2018-08-16 19:56:18
+--addr 0009 timestamp 2018-08-16 19:56:18
+--addr 0003 timestamp 2018-08-16 19:56:10
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:17
+--addr 0006 timestamp 2018-08-16 19:56:10
+--addr 000A timestamp 2018-08-16 19:56:18
+--addr 0009 timestamp 2018-08-16 19:56:18
+--addr 0003 timestamp 2018-08-16 19:56:25
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:17
+--addr 0006 timestamp 2018-08-16 19:56:28
+--addr 000A timestamp 2018-08-16 19:56:18
+--addr 0009 timestamp 2018-08-16 19:56:18
+--addr 0003 timestamp 2018-08-16 19:56:25
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:17
+--addr 0006 timestamp 2018-08-16 19:56:28
+--addr 000A timestamp 2018-08-16 19:56:31
+--addr 0009 timestamp 2018-08-16 19:56:18
+--addr 0003 timestamp 2018-08-16 19:56:25
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:32
+--addr 0006 timestamp 2018-08-16 19:56:28
+--addr 000A timestamp 2018-08-16 19:56:31
+--addr 0009 timestamp 2018-08-16 19:56:18
+--addr 0003 timestamp 2018-08-16 19:56:25
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:32
+--addr 0006 timestamp 2018-08-16 19:56:28
+--addr 000A timestamp 2018-08-16 19:56:31
+--addr 0009 timestamp 2018-08-16 19:56:18
+--addr 0003 timestamp 2018-08-16 19:56:33
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:32
+--addr 0006 timestamp 2018-08-16 19:56:28
+--addr 000A timestamp 2018-08-16 19:56:34
+--addr 0009 timestamp 2018-08-16 19:56:18
+--addr 0003 timestamp 2018-08-16 19:56:33
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:32
+--addr 0006 timestamp 2018-08-16 19:56:28
+--addr 000A timestamp 2018-08-16 19:56:34
+--addr 0009 timestamp 2018-08-16 19:56:18
+--addr 0003 timestamp 2018-08-16 19:56:35
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:32
+--addr 0006 timestamp 2018-08-16 19:56:46
+--addr 000A timestamp 2018-08-16 19:56:34
+--addr 0009 timestamp 2018-08-16 19:56:18
+--addr 0003 timestamp 2018-08-16 19:56:35
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:32
+--addr 0006 timestamp 2018-08-16 19:56:46
+--addr 000A timestamp 2018-08-16 19:56:47
+--addr 0009 timestamp 2018-08-16 19:56:18
+--addr 0003 timestamp 2018-08-16 19:56:35
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:32
+--addr 0006 timestamp 2018-08-16 19:56:46
+--addr 000A timestamp 2018-08-16 19:56:47
+--addr 0009 timestamp 2018-08-16 19:56:18
+--addr 0003 timestamp 2018-08-16 19:56:49
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:32
+--addr 0006 timestamp 2018-08-16 19:56:50
+--addr 000A timestamp 2018-08-16 19:56:47
+--addr 0009 timestamp 2018-08-16 19:56:18
+--addr 0003 timestamp 2018-08-16 19:56:49
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:51
+--addr 0006 timestamp 2018-08-16 19:56:50
+--addr 000A timestamp 2018-08-16 19:56:47
+--addr 0009 timestamp 2018-08-16 19:56:18
+--addr 0003 timestamp 2018-08-16 19:56:49
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:56:51
+--addr 0006 timestamp 2018-08-16 19:56:50
+--addr 000A timestamp 2018-08-16 19:56:47
+--addr 0009 timestamp 2018-08-16 19:57:01
+--addr 0003 timestamp 2018-08-16 19:56:49
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:04
+--addr 0006 timestamp 2018-08-16 19:56:50
+--addr 000A timestamp 2018-08-16 19:56:47
+--addr 0009 timestamp 2018-08-16 19:57:01
+--addr 0003 timestamp 2018-08-16 19:56:49
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:04
+--addr 0006 timestamp 2018-08-16 19:57:05
+--addr 000A timestamp 2018-08-16 19:56:47
+--addr 0009 timestamp 2018-08-16 19:57:01
+--addr 0003 timestamp 2018-08-16 19:56:49
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:04
+--addr 0006 timestamp 2018-08-16 19:57:05
+--addr 000A timestamp 2018-08-16 19:57:06
+--addr 0009 timestamp 2018-08-16 19:57:01
+--addr 0003 timestamp 2018-08-16 19:56:49
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:04
+--addr 0006 timestamp 2018-08-16 19:57:05
+--addr 000A timestamp 2018-08-16 19:57:06
+--addr 0009 timestamp 2018-08-16 19:57:01
+--addr 0003 timestamp 2018-08-16 19:57:06
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:04
+--addr 0006 timestamp 2018-08-16 19:57:05
+--addr 000A timestamp 2018-08-16 19:57:06
+--addr 0009 timestamp 2018-08-16 19:57:06
+--addr 0003 timestamp 2018-08-16 19:57:06
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:13
+--addr 0006 timestamp 2018-08-16 19:57:05
+--addr 000A timestamp 2018-08-16 19:57:06
+--addr 0009 timestamp 2018-08-16 19:57:06
+--addr 0003 timestamp 2018-08-16 19:57:06
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:13
+--addr 0006 timestamp 2018-08-16 19:57:05
+--addr 000A timestamp 2018-08-16 19:57:06
+--addr 0009 timestamp 2018-08-16 19:57:06
+--addr 0003 timestamp 2018-08-16 19:57:15
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:13
+--addr 0006 timestamp 2018-08-16 19:57:05
+--addr 000A timestamp 2018-08-16 19:57:21
+--addr 0009 timestamp 2018-08-16 19:57:06
+--addr 0003 timestamp 2018-08-16 19:57:15
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:13
+--addr 0006 timestamp 2018-08-16 19:57:05
+--addr 000A timestamp 2018-08-16 19:57:21
+--addr 0009 timestamp 2018-08-16 19:57:25
+--addr 0003 timestamp 2018-08-16 19:57:15
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:13
+--addr 0006 timestamp 2018-08-16 19:57:05
+--addr 000A timestamp 2018-08-16 19:57:21
+--addr 0009 timestamp 2018-08-16 19:57:25
+--addr 0003 timestamp 2018-08-16 19:57:30
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:32
+--addr 0006 timestamp 2018-08-16 19:57:05
+--addr 000A timestamp 2018-08-16 19:57:21
+--addr 0009 timestamp 2018-08-16 19:57:25
+--addr 0003 timestamp 2018-08-16 19:57:30
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:32
+--addr 0006 timestamp 2018-08-16 19:57:05
+--addr 000A timestamp 2018-08-16 19:57:21
+--addr 0009 timestamp 2018-08-16 19:57:40
+--addr 0003 timestamp 2018-08-16 19:57:30
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:43
+--addr 0006 timestamp 2018-08-16 19:57:05
+--addr 000A timestamp 2018-08-16 19:57:21
+--addr 0009 timestamp 2018-08-16 19:57:40
+--addr 0003 timestamp 2018-08-16 19:57:30
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:43
+--addr 0006 timestamp 2018-08-16 19:57:05
+--addr 000A timestamp 2018-08-16 19:57:21
+--addr 0009 timestamp 2018-08-16 19:57:40
+--addr 0003 timestamp 2018-08-16 19:57:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:43
+--addr 0006 timestamp 2018-08-16 19:57:45
+--addr 000A timestamp 2018-08-16 19:57:21
+--addr 0009 timestamp 2018-08-16 19:57:40
+--addr 0003 timestamp 2018-08-16 19:57:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:43
+--addr 0006 timestamp 2018-08-16 19:57:45
+--addr 000A timestamp 2018-08-16 19:57:46
+--addr 0009 timestamp 2018-08-16 19:57:40
+--addr 0003 timestamp 2018-08-16 19:57:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:53
+--addr 0006 timestamp 2018-08-16 19:57:45
+--addr 000A timestamp 2018-08-16 19:57:46
+--addr 0009 timestamp 2018-08-16 19:57:40
+--addr 0003 timestamp 2018-08-16 19:57:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:53
+--addr 0006 timestamp 2018-08-16 19:57:45
+--addr 000A timestamp 2018-08-16 19:57:46
+--addr 0009 timestamp 2018-08-16 19:57:55
+--addr 0003 timestamp 2018-08-16 19:57:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:53
+--addr 0006 timestamp 2018-08-16 19:57:45
+--addr 000A timestamp 2018-08-16 19:57:58
+--addr 0009 timestamp 2018-08-16 19:57:55
+--addr 0003 timestamp 2018-08-16 19:57:43
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:57:53
+--addr 0006 timestamp 2018-08-16 19:57:45
+--addr 000A timestamp 2018-08-16 19:57:58
+--addr 0009 timestamp 2018-08-16 19:57:55
+--addr 0003 timestamp 2018-08-16 19:57:58
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:04
+--addr 0006 timestamp 2018-08-16 19:57:45
+--addr 000A timestamp 2018-08-16 19:57:58
+--addr 0009 timestamp 2018-08-16 19:57:55
+--addr 0003 timestamp 2018-08-16 19:57:58
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:04
+--addr 0006 timestamp 2018-08-16 19:57:45
+--addr 000A timestamp 2018-08-16 19:57:58
+--addr 0009 timestamp 2018-08-16 19:58:13
+--addr 0003 timestamp 2018-08-16 19:57:58
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:04
+--addr 0006 timestamp 2018-08-16 19:57:45
+--addr 000A timestamp 2018-08-16 19:57:58
+--addr 0009 timestamp 2018-08-16 19:58:13
+--addr 0003 timestamp 2018-08-16 19:58:14
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:04
+--addr 0006 timestamp 2018-08-16 19:57:45
+--addr 000A timestamp 2018-08-16 19:58:15
+--addr 0009 timestamp 2018-08-16 19:58:13
+--addr 0003 timestamp 2018-08-16 19:58:14
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:04
+--addr 0006 timestamp 2018-08-16 19:58:18
+--addr 000A timestamp 2018-08-16 19:58:15
+--addr 0009 timestamp 2018-08-16 19:58:13
+--addr 0003 timestamp 2018-08-16 19:58:14
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:23
+--addr 0006 timestamp 2018-08-16 19:58:18
+--addr 000A timestamp 2018-08-16 19:58:15
+--addr 0009 timestamp 2018-08-16 19:58:13
+--addr 0003 timestamp 2018-08-16 19:58:14
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:23
+--addr 0006 timestamp 2018-08-16 19:58:18
+--addr 000A timestamp 2018-08-16 19:58:15
+--addr 0009 timestamp 2018-08-16 19:58:13
+--addr 0003 timestamp 2018-08-16 19:58:23
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:23
+--addr 0006 timestamp 2018-08-16 19:58:18
+--addr 000A timestamp 2018-08-16 19:58:26
+--addr 0009 timestamp 2018-08-16 19:58:13
+--addr 0003 timestamp 2018-08-16 19:58:23
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:23
+--addr 0006 timestamp 2018-08-16 19:58:18
+--addr 000A timestamp 2018-08-16 19:58:26
+--addr 0009 timestamp 2018-08-16 19:58:28
+--addr 0003 timestamp 2018-08-16 19:58:23
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:23
+--addr 0006 timestamp 2018-08-16 19:58:30
+--addr 000A timestamp 2018-08-16 19:58:26
+--addr 0009 timestamp 2018-08-16 19:58:28
+--addr 0003 timestamp 2018-08-16 19:58:23
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:23
+--addr 0006 timestamp 2018-08-16 19:58:30
+--addr 000A timestamp 2018-08-16 19:58:26
+--addr 0009 timestamp 2018-08-16 19:58:28
+--addr 0003 timestamp 2018-08-16 19:58:31
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:23
+--addr 0006 timestamp 2018-08-16 19:58:30
+--addr 000A timestamp 2018-08-16 19:58:26
+--addr 0009 timestamp 2018-08-16 19:58:35
+--addr 0003 timestamp 2018-08-16 19:58:31
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:37
+--addr 0006 timestamp 2018-08-16 19:58:30
+--addr 000A timestamp 2018-08-16 19:58:26
+--addr 0009 timestamp 2018-08-16 19:58:35
+--addr 0003 timestamp 2018-08-16 19:58:31
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:37
+--addr 0006 timestamp 2018-08-16 19:58:30
+--addr 000A timestamp 2018-08-16 19:58:26
+--addr 0009 timestamp 2018-08-16 19:58:35
+--addr 0003 timestamp 2018-08-16 19:58:37
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:37
+--addr 0006 timestamp 2018-08-16 19:58:30
+--addr 000A timestamp 2018-08-16 19:58:40
+--addr 0009 timestamp 2018-08-16 19:58:35
+--addr 0003 timestamp 2018-08-16 19:58:37
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:37
+--addr 0006 timestamp 2018-08-16 19:58:47
+--addr 000A timestamp 2018-08-16 19:58:40
+--addr 0009 timestamp 2018-08-16 19:58:35
+--addr 0003 timestamp 2018-08-16 19:58:37
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:54
+--addr 0006 timestamp 2018-08-16 19:58:47
+--addr 000A timestamp 2018-08-16 19:58:40
+--addr 0009 timestamp 2018-08-16 19:58:35
+--addr 0003 timestamp 2018-08-16 19:58:37
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:54
+--addr 0006 timestamp 2018-08-16 19:58:47
+--addr 000A timestamp 2018-08-16 19:58:40
+--addr 0009 timestamp 2018-08-16 19:58:35
+--addr 0003 timestamp 2018-08-16 19:58:55
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:54
+--addr 0006 timestamp 2018-08-16 19:58:47
+--addr 000A timestamp 2018-08-16 19:59:02
+--addr 0009 timestamp 2018-08-16 19:58:35
+--addr 0003 timestamp 2018-08-16 19:58:55
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:54
+--addr 0006 timestamp 2018-08-16 19:58:47
+--addr 000A timestamp 2018-08-16 19:59:02
+--addr 0009 timestamp 2018-08-16 19:58:35
+--addr 0003 timestamp 2018-08-16 19:59:03
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:54
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:02
+--addr 0009 timestamp 2018-08-16 19:58:35
+--addr 0003 timestamp 2018-08-16 19:59:03
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:58:54
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:08
+--addr 0009 timestamp 2018-08-16 19:58:35
+--addr 0003 timestamp 2018-08-16 19:59:03
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:59:10
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:08
+--addr 0009 timestamp 2018-08-16 19:58:35
+--addr 0003 timestamp 2018-08-16 19:59:03
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:59:10
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:08
+--addr 0009 timestamp 2018-08-16 19:58:35
+--addr 0003 timestamp 2018-08-16 19:59:14
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:59:10
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:19
+--addr 0009 timestamp 2018-08-16 19:58:35
+--addr 0003 timestamp 2018-08-16 19:59:14
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:59:10
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:19
+--addr 0009 timestamp 2018-08-16 19:58:35
+--addr 0003 timestamp 2018-08-16 19:59:22
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:59:10
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:24
+--addr 0009 timestamp 2018-08-16 19:58:35
+--addr 0003 timestamp 2018-08-16 19:59:22
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:59:28
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:24
+--addr 0009 timestamp 2018-08-16 19:58:35
+--addr 0003 timestamp 2018-08-16 19:59:22
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:59:28
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:24
+--addr 0009 timestamp 2018-08-16 19:59:28
+--addr 0003 timestamp 2018-08-16 19:59:22
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:59:28
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:29
+--addr 0009 timestamp 2018-08-16 19:59:28
+--addr 0003 timestamp 2018-08-16 19:59:22
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:59:28
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:29
+--addr 0009 timestamp 2018-08-16 19:59:28
+--addr 0003 timestamp 2018-08-16 19:59:29
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:59:28
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:29
+--addr 0009 timestamp 2018-08-16 19:59:29
+--addr 0003 timestamp 2018-08-16 19:59:29
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:59:28
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:29
+--addr 0009 timestamp 2018-08-16 19:59:29
+--addr 0003 timestamp 2018-08-16 19:59:30
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:59:28
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:29
+--addr 0009 timestamp 2018-08-16 19:59:45
+--addr 0003 timestamp 2018-08-16 19:59:30
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:59:46
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:29
+--addr 0009 timestamp 2018-08-16 19:59:45
+--addr 0003 timestamp 2018-08-16 19:59:30
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:59:46
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:29
+--addr 0009 timestamp 2018-08-16 19:59:45
+--addr 0003 timestamp 2018-08-16 19:59:48
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 19:59:46
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:29
+--addr 0009 timestamp 2018-08-16 19:59:45
+--addr 0003 timestamp 2018-08-16 19:59:58
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:06
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:29
+--addr 0009 timestamp 2018-08-16 19:59:45
+--addr 0003 timestamp 2018-08-16 19:59:58
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:06
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 19:59:29
+--addr 0009 timestamp 2018-08-16 20:00:06
+--addr 0003 timestamp 2018-08-16 19:59:58
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:06
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:00:14
+--addr 0009 timestamp 2018-08-16 20:00:06
+--addr 0003 timestamp 2018-08-16 19:59:58
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:06
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:00:14
+--addr 0009 timestamp 2018-08-16 20:00:06
+--addr 0003 timestamp 2018-08-16 20:00:17
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:06
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:00:18
+--addr 0009 timestamp 2018-08-16 20:00:06
+--addr 0003 timestamp 2018-08-16 20:00:17
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:22
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:00:18
+--addr 0009 timestamp 2018-08-16 20:00:06
+--addr 0003 timestamp 2018-08-16 20:00:17
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:22
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:00:18
+--addr 0009 timestamp 2018-08-16 20:00:06
+--addr 0003 timestamp 2018-08-16 20:00:25
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:22
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:00:35
+--addr 0009 timestamp 2018-08-16 20:00:06
+--addr 0003 timestamp 2018-08-16 20:00:25
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:22
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:00:35
+--addr 0009 timestamp 2018-08-16 20:00:06
+--addr 0003 timestamp 2018-08-16 20:00:36
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:39
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:00:35
+--addr 0009 timestamp 2018-08-16 20:00:06
+--addr 0003 timestamp 2018-08-16 20:00:36
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:39
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:00:35
+--addr 0009 timestamp 2018-08-16 20:00:43
+--addr 0003 timestamp 2018-08-16 20:00:36
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:39
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:00:48
+--addr 0009 timestamp 2018-08-16 20:00:43
+--addr 0003 timestamp 2018-08-16 20:00:36
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:51
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:00:48
+--addr 0009 timestamp 2018-08-16 20:00:43
+--addr 0003 timestamp 2018-08-16 20:00:36
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:51
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:00:48
+--addr 0009 timestamp 2018-08-16 20:00:43
+--addr 0003 timestamp 2018-08-16 20:00:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:51
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:00:48
+--addr 0009 timestamp 2018-08-16 20:00:57
+--addr 0003 timestamp 2018-08-16 20:00:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:51
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:00:59
+--addr 0009 timestamp 2018-08-16 20:00:57
+--addr 0003 timestamp 2018-08-16 20:00:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:51
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:00:59
+--addr 0009 timestamp 2018-08-16 20:01:04
+--addr 0003 timestamp 2018-08-16 20:00:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:51
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:00:59
+--addr 0009 timestamp 2018-08-16 20:01:05
+--addr 0003 timestamp 2018-08-16 20:00:51
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:51
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:00:59
+--addr 0009 timestamp 2018-08-16 20:01:05
+--addr 0003 timestamp 2018-08-16 20:01:06
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:00:51
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:01:10
+--addr 0009 timestamp 2018-08-16 20:01:05
+--addr 0003 timestamp 2018-08-16 20:01:06
+
+total nodes number: 5
+--addr 0002 timestamp 2018-08-16 20:01:10
+--addr 0006 timestamp 2018-08-16 19:59:04
+--addr 000A timestamp 2018-08-16 20:01:10
+--addr 0009 timestamp 2018-08-16 20:01:05
+--addr 0003 timestamp 2018-08-16 20:01:06

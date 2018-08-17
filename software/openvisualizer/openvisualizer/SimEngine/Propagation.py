@@ -112,8 +112,8 @@ class Propagation(eventBusClient.eventBusClient):
 
                 # compute reception power (first Friis, then apply Pister-hack)
                 Prx              = TX_POWER_dBm - (20*log10(d_km) + 20*log10(FREQUENCY_GHz) + 92.45)
-		if(toMote >0):
-		    print "mote: brian_distance,distance, path loss: ", fromMote,toMote,b_km, d_km, (20*log10(d_km) + 20*log10(FREQUENCY_GHz) + 92.45) 
+		#if(toMote >0):
+		 #   print "mote: brian_distance,distance, path loss: ", fromMote,toMote,b_km, d_km, (20*log10(d_km) + 20*log10(FREQUENCY_GHz) + 92.45) 
                 Prx             -= PISTER_HACK_LOSS*random.random()
                
                 #turn into PDR

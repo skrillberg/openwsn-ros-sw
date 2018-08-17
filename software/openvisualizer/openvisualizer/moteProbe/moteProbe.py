@@ -252,12 +252,12 @@ class moteProbe(threading.Thread):
 				#print neighbors
 				#pack positions of neighbors
 
-				'''
+				
 				for neighbor, pos in neighbors.iteritems():
 				    #print neighbor," ", pos 
 				    for coord in pos:
 				        packed_data+=struct.pack('=f',coord)
-				'''
+				
 
 				#print "packed data:"    
 				#print packed_data

@@ -223,7 +223,7 @@ class moteProbe(threading.Thread):
 				xcontrol = struct.unpack('=f',"".join(rxBytes[0:4]))
 				ycontrol = struct.unpack('=f',"".join(rxBytes[4:8]))
 				zcontrol = struct.unpack('=f',"".join(rxBytes[8:12]))
-				print xcontrol[0],ycontrol[0],zcontrol[0]
+				#print xcontrol[0],ycontrol[0],zcontrol[0]
 				#request imu data from ros node
 				#print self.emulatedMote.bspUart.engine.pause()
 				accel_data,timestamp,position,neighbors = s.prt2('fromMoteProbe@'+self.portname,xcontrol[0],ycontrol[0],zcontrol[0],self.emulatedMote.bspUart.timeline.getCurrentTime())
@@ -249,24 +249,29 @@ class moteProbe(threading.Thread):
 				#pack floats
 				for d in position:
 				    packed_data += struct.pack('=f',d)
-				#print neighbors
-				#pack positions of neighbors
 
+				#pack positions of neighbors
+				parsed_keys = {}
+				parsed_neighbors = {}
+				for key in neighbors.iterkeys():
+					#print key.split('v')
+					parsed_keys[int(key.split('v')[1])]=key
 				
-				for neighbor, pos in neighbors.iteritems():
+				
+				sorted_keys=sorted(parsed_keys.iterkeys())
+		
+				for neighbor in sorted_keys:
 				    #print neighbor," ", pos 
-				    for coord in pos:
+				    for coord in neighbors[parsed_keys[neighbor]]:
+					
 				        packed_data+=struct.pack('=f',coord)
 				
 
-				#print "packed data:"    
-				#print packed_data
 				unpacked_data =[]
 				for d in packed_data:
 				    unpacked_data += struct.unpack("=b",d) 
 
-				#print "uint8 unpacked data:"    
-				#print unpacked_data
+	
 
 				chrData =''
 				chrData =['~']
@@ -274,11 +279,7 @@ class moteProbe(threading.Thread):
 				for d in packed_data:
 				    chrData+=d
 				chrData +=['~']
-				#print len(chrData)
-				#print chrData
-				#chrData = self.hdlc.hdlcify(chrData)  this created and error -11
-				#write response data to mote
-                                #print chrData
+
 				self.serial.write(chrData)
 				
 

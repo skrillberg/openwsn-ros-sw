@@ -227,7 +227,7 @@ class MoteHandler(threading.Thread):
         return self.id
     
     def getLocation(self):
-	print "getting location in mote handler"
+	#print "getting location in mote handler"
 	self.location=self.engine.locationmanager.getLocation(self.id)
         return self.location
 

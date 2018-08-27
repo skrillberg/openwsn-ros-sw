@@ -33,7 +33,7 @@ class Propagation(eventBusClient.eventBusClient):
         self.dataLock             = threading.Lock()
         self.connections          = {}
         self.pendingTxEnd         = []
-        
+        self.rssi		  ={}
         # logging
         self.log                  = logging.getLogger('Propagation')
         self.log.setLevel(logging.DEBUG)
@@ -145,14 +145,17 @@ class Propagation(eventBusClient.eventBusClient):
             if pdr:
                 if fromMote not in self.connections:
                     self.connections[fromMote] = {}
+		    self.rssi[fromMote]={}
                 self.connections[fromMote][toMote] = pdr
-                
+                self.rssi[fromMote][toMote]=Prx
                 if toMote not in self.connections:
                     self.connections[toMote] = {}
+		    self.rssi[toMote] = {}
                 self.connections[toMote][fromMote] = pdr
+		self.rssi[toMote][fromMote] = Prx
             else:
                 self.deleteConnection(toMote,fromMote)
-    
+    	    #print self.rssi
     def retrieveConnections(self):
         
         retrievedConnections = []
@@ -206,7 +209,7 @@ class Propagation(eventBusClient.eventBusClient):
                     
                     # indicate start of transmission
                     mh = self.engine.getMoteHandlerById(toMote)
-                    mh.bspRadio.indicateTxStart(fromMote,packet,channel)
+                    mh.bspRadio.indicateTxStart(fromMote,packet,channel,self.rssi[toMote][fromMote])
                     
                     # remember to signal end of transmission
                     self.pendingTxEnd += [(fromMote,toMote)]

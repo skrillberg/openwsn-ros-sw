@@ -22,7 +22,7 @@ class BspBoard(BspModule.BspModule):
         
         # local variables
         self.timeline        = self.engine.timeline
-        
+        self.locationmanager = self.engine.locationmanager
         # initialize the parent
         BspModule.BspModule.__init__(self,'BspBoard')
     
@@ -57,5 +57,12 @@ class BspBoard(BspModule.BspModule):
             
         except Exception as err:
             self.log.critical(err)
-    
+
+    def cmd_get_location(self):
+	print "Hello from cmd_get_location in BspBoard.py"
+	x,y,z,neighbors=self.locationmanager.getLocationCm(self.motehandler.id)
+	print "back in BspBoard"
+	print x,y,z
+        return x,y,z,neighbors  
+
     #======================== private =========================================

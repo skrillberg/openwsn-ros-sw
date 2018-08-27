@@ -259,13 +259,13 @@ class moteProbe(threading.Thread):
 				
 				
 				sorted_keys=sorted(parsed_keys.iterkeys())
-		
+				'''
 				for neighbor in sorted_keys:
 				    #print neighbor," ", pos 
 				    for coord in neighbors[parsed_keys[neighbor]]:
 					
 				        packed_data+=struct.pack('=f',coord)
-				
+				'''		
 
 				unpacked_data =[]
 				for d in packed_data:
@@ -280,7 +280,7 @@ class moteProbe(threading.Thread):
 				    chrData+=d
 				chrData +=['~']
 
-				self.serial.write(chrData)
+				#self.serial.write(chrData)
 				
 
                         elif self.mode==self.MODE_IOTLAB:

@@ -336,7 +336,7 @@ class BspRadio(BspModule.BspModule,eventBusClient.eventBusClient):
     
     #======================== indication from Propagation =====================
     
-    def indicateTxStart(self,moteId,packet,channel):
+    def indicateTxStart(self,moteId,packet,channel,rssi):
         
         if self.log.isEnabledFor(logging.DEBUG):
             self.log.debug('_indicateTxStart from moteId={0} channel={1} len={2}'.format(moteId,channel,len(packet)))
@@ -346,7 +346,7 @@ class BspRadio(BspModule.BspModule,eventBusClient.eventBusClient):
             self.frequency==channel):
             self._changeState(RadioState.RECEIVING)
             self.rxBuf       = packet
-            self.rssi        = -50
+            self.rssi        = rssi #self.propagation.
             self.lqi         = 100
             self.crcPasses   = True
             

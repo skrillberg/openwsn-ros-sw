@@ -8,6 +8,8 @@ import logging
 
 from openvisualizer.SimEngine     import SimEngine
 import BspModule
+import xmlrpclib
+s = xmlrpclib.ServerProxy('http://localhost:8001')
 
 class BspBoard(BspModule.BspModule):
     '''
@@ -65,4 +67,10 @@ class BspBoard(BspModule.BspModule):
 	print x,y,z
         return x,y,z,neighbors  
 
+    def cmd_cmd_vel(self,x,y,z):
+	print "in cmd_cmd_vel"
+	s.prt2('fromMoteProbe@emulated'+str(self.motehandler.id),x,y,z,self.engine.timeline.getCurrentTime())
+	print x,y,z
+
+	
     #======================== private =========================================

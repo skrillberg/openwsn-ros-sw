@@ -94,6 +94,7 @@ class MoteHandler(threading.Thread):
         mote.set_callback(notifId('board_init'),                          self.bspBoard.cmd_init)
         mote.set_callback(notifId('board_sleep'),                         self.bspBoard.cmd_sleep)
 	mote.set_callback(notifId('board_get_location'),                  self.bspBoard.cmd_get_location)
+	mote.set_callback(notifId('board_cmd_vel'),                       self.bspBoard.cmd_cmd_vel)
         # debugpins
         mote.set_callback(notifId('debugpins_init'),                      self.bspDebugpins.cmd_init)
         mote.set_callback(notifId('debugpins_frame_toggle'),              self.bspDebugpins.cmd_frame_toggle)

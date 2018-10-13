@@ -9,7 +9,7 @@ import logging
 import threading
 import copy
 import random
-from math import radians, cos, sin, asin, sqrt, log10
+from math import radians, cos, sin, asin, sqrt, log10, log
 
 from openvisualizer.eventBus      import eventBusClient
 
@@ -39,6 +39,10 @@ class Propagation(eventBusClient.eventBusClient):
         self.log.setLevel(logging.DEBUG)
         self.log.addHandler(logging.NullHandler())
         
+
+	#Kilberg's exponential modelling of deep fades
+	self.eventTime = 0
+	
         # initialize parents class
         eventBusClient.eventBusClient.__init__(
             self,
@@ -114,7 +118,13 @@ class Propagation(eventBusClient.eventBusClient):
                 Prx              = TX_POWER_dBm - (20*log10(d_km) + 20*log10(FREQUENCY_GHz) + 92.45)
 		#if(toMote >0):
 		 #   print "mote: brian_distance,distance, path loss: ", fromMote,toMote,b_km, d_km, (20*log10(d_km) + 20*log10(FREQUENCY_GHz) + 92.45) 
-                Prx             -= PISTER_HACK_LOSS*random.random()
+
+		#if next fade event time is zero, then the sim just initialized and we should calculate the first one
+		#if self.engine.timeline.self.eventTime
+		lam = 0.05
+
+		#self.eventTime = self.engine.timeline.currentTime + -log(random.random())/lam
+                Prx             -= PISTER_HACK_LOSS*random.random()/10
                
                 #turn into PDR
                 if   Prx<SENSITIVITY_dBm:
